@@ -42,8 +42,8 @@ func upnp_setup():
 		
 	print("Success! Join Address: %s" % upnp.query_external_address())
 
-func connected_to_server():
-	send_player_information.rpc_id(1, name_entry.text, multiplayer.get_unique_id(), "Helmet")
+#func connected_to_server():
+	#send_player_information.rpc_id(1, name_entry.text, multiplayer.get_unique_id(), "Helmet")
 
 func server_connection_failed():
 	print("connection failed.")

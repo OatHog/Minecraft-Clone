@@ -1,610 +1,504 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1710945316
-icon.svg::CompressedTexture2D::550359753799157537::1710926039::1710926049::1::::<><>::
-::res://Assets/::1710932520
-::res://Assets/Cube World - Aug 2023/::1710932572
-Atlas.png::CompressedTexture2D::6522297253517236981::1710932522::1710932571::1::::<><>::
-Blocks_PixelArt.png::CompressedTexture2D::4315403329352264055::1710932522::1710932571::1::::<><>::
-Preview.jpg::CompressedTexture2D::3297794994862491096::1710932524::1710932572::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Animals/::1710932520
-::res://Assets/Cube World - Aug 2023/Animals/Blends/::1710932675
-Cat.blend::PackedScene::5263674465106933644::1710932521::1710932675::1::::<><>::
-Chick.blend::PackedScene::6686075994453276465::1710932521::1710932675::1::::<><>::
-Chicken.blend::PackedScene::8703952209254879371::1710932521::1710932674::1::::<><>::
-Dog.blend::PackedScene::3673734427689545841::1710932522::1710932674::1::::<><>::
-Horse.blend::PackedScene::4331511298188192868::1710932522::1710932673::1::::<><>::
-Pig.blend::PackedScene::5956985752054340256::1710932522::1710932673::1::::<><>::
-Raccoon.blend::PackedScene::4267406202728409036::1710932522::1710932672::1::::<><>::
-Sheep.blend::PackedScene::7328878220988104577::1710932522::1710932672::1::::<><>::
-Wolf.blend::PackedScene::8018388788806322665::1710932522::1710932671::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Animals/Blends/textures/::1710932728
-Atlas.png::CompressedTexture2D::8028289139997803006::1710932670::1710932728::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Animals/FBX/::1710932670
-Cat.fbx::PackedScene::6902944428502353415::1710932522::1710932670::1::::<><>::
-Chick.fbx::PackedScene::2555027864079363815::1710932522::1710932670::1::::<><>::
-Chicken.fbx::PackedScene::648233089119589855::1710932522::1710932669::1::::<><>::
-Dog.fbx::PackedScene::8007023303216640075::1710932522::1710932669::1::::<><>::
-Horse.fbx::PackedScene::8726776710436222468::1710932522::1710932668::1::::<><>::
-Pig.fbx::PackedScene::1166606054872749208::1710932522::1710932668::1::::<><>::
-Raccoon.fbx::PackedScene::2691498894774911337::1710932522::1710932667::1::::<><>::
-Sheep.fbx::PackedScene::5102141578400635346::1710932522::1710932667::1::::<><>::
-Wolf.fbx::PackedScene::7900941327755950103::1710932522::1710932666::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Animals/glTF/::1710932729
-Cat.gltf::PackedScene::3829003813198413672::1710932522::1710932666::1::::<><>::uid://cthll0s5un6di::::res://Assets/Cube World - Aug 2023/Animals/glTF/Cat_Atlas.png
-Cat_Atlas.png::CompressedTexture2D::6121568913721190226::1710932666::1710932729::1::::<><>::
-Chick.gltf::PackedScene::7351579460140772150::1710932522::1710932665::1::::<><>::uid://csu6834i6po5a::::res://Assets/Cube World - Aug 2023/Animals/glTF/Chick_Atlas.png
-Chicken.gltf::PackedScene::2114605951214696435::1710932522::1710932665::1::::<><>::uid://cxs6aie66kkov::::res://Assets/Cube World - Aug 2023/Animals/glTF/Chicken_Atlas.png
-Chicken_Atlas.png::CompressedTexture2D::6426226225226131769::1710932665::1710932729::1::::<><>::
-Chick_Atlas.png::CompressedTexture2D::6079470781785251164::1710932665::1710932729::1::::<><>::
-Dog.gltf::PackedScene::5824511763690527420::1710932522::1710932665::1::::<><>::uid://byj1hid77id72::::res://Assets/Cube World - Aug 2023/Animals/glTF/Dog_Atlas.png
-Dog_Atlas.png::CompressedTexture2D::4091123899479908327::1710932664::1710932729::1::::<><>::
-Horse.gltf::PackedScene::2629993761414189345::1710932522::1710932664::1::::<><>::uid://dwtovmxpq4m38::::res://Assets/Cube World - Aug 2023/Animals/glTF/Horse_Atlas.png
-Horse_Atlas.png::CompressedTexture2D::8743527994528655377::1710932664::1710932729::1::::<><>::
-Pig.gltf::PackedScene::6593404607792820718::1710932522::1710932664::1::::<><>::uid://dco2ln3lxgjyt::::res://Assets/Cube World - Aug 2023/Animals/glTF/Pig_Atlas.png
-Pig_Atlas.png::CompressedTexture2D::7330200756038701159::1710932664::1710932729::1::::<><>::
-Raccoon.gltf::PackedScene::1588574301119613238::1710932522::1710932663::1::::<><>::uid://540f6klbmo5y::::res://Assets/Cube World - Aug 2023/Animals/glTF/Raccoon_Atlas.png
-Raccoon_Atlas.png::CompressedTexture2D::2167060761970904604::1710932663::1710932729::1::::<><>::
-Sheep.gltf::PackedScene::5433097273576719::1710932522::1710932685::1::::<><>::uid://jhmq2pllh0s4::::res://Assets/Cube World - Aug 2023/Animals/glTF/Wolf_Atlas.png
-Sheep_Atlas.png::CompressedTexture2D::3956586451409737312::1710932685::1710932729::1::::<><>::
-Wolf.gltf::PackedScene::5433097273576719::1710932522::1710932685::0::::<><>::
-Wolf_Atlas.png::CompressedTexture2D::646908855453699949::1710932685::1710932729::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Animals/OBJ/::1710932579
-Chick.obj::Mesh::7491056379379940129::1710932522::1710932579::1::::<><>::
-Chicken.obj::Mesh::6810897875510428243::1710932522::1710932579::1::::<><>::
-Dog.obj::Mesh::1204057571466538636::1710932522::1710932579::1::::<><>::
-Horse.obj::Mesh::8229170390833839346::1710932522::1710932579::1::::<><>::
-Pig.obj::Mesh::2765865661438970325::1710932522::1710932578::1::::<><>::
-Raccoon.obj::Mesh::8929576998158647665::1710932522::1710932578::1::::<><>::
-Sheep.obj::Mesh::1370726832381664233::1710932522::1710932578::1::::<><>::
-Wolf.obj::Mesh::7609266990837698619::1710932522::1710932578::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Blocks/::1710932520
-::res://Assets/Cube World - Aug 2023/Blocks/Blends/::1710932685
-Block_Blank.blend::PackedScene::6942774117307935426::1710932522::1710932685::1::::<><>::
-Block_Brick.blend::PackedScene::6284209719762956503::1710932522::1710932684::1::::<><>::
-Block_Cheese.blend::PackedScene::2635057945880018977::1710932522::1710932684::1::::<><>::
-Block_Coal.blend::PackedScene::4915800862254110632::1710932522::1710932683::1::::<><>::
-Block_Crate.blend::PackedScene::8312032074454286269::1710932522::1710932683::1::::<><>::
-Block_Crystal.blend::PackedScene::5079710908553357007::1710932522::1710932683::1::::<><>::
-Block_Diamond.blend::PackedScene::9084577310496081451::1710932522::1710932682::1::::<><>::
-Block_Dirt.blend::PackedScene::8872515738727279193::1710932522::1710932682::1::::<><>::
-Block_Grass.blend::PackedScene::33438201941022819::1710932522::1710932681::1::::<><>::
-Block_GreyBricks.blend::PackedScene::3567603689803453205::1710932522::1710932681::1::::<><>::
-Block_Ice.blend::PackedScene::3969266040160441646::1710932522::1710932680::1::::<><>::
-Block_Metal.blend::PackedScene::2610906766873985294::1710932522::1710932680::1::::<><>::
-Block_Snow.blend::PackedScene::725669466314921760::1710932522::1710932680::1::::<><>::
-Block_WoodPlanks.blend::PackedScene::5728767369468348241::1710932522::1710932679::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Blocks/Blends/textures/::1710932728
-Atlas.png::CompressedTexture2D::879645050434229437::1710932679::1710932728::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Blocks/FBX/::1710932679
-Block_Blank.fbx::PackedScene::1880600152780295174::1710932522::1710932679::1::::<><>::
-Block_Brick.fbx::PackedScene::6614150950407071043::1710932522::1710932679::1::::<><>::
-Block_Cheese.fbx::PackedScene::7480765567654113596::1710932522::1710932678::1::::<><>::
-Block_Coal.fbx::PackedScene::2857395630702259390::1710932522::1710932678::1::::<><>::
-Block_Crate.fbx::PackedScene::8730179768135290439::1710932522::1710932677::1::::<><>::
-Block_Crystal.fbx::PackedScene::3496707020802997973::1710932522::1710932677::1::::<><>::
-Block_Diamond.fbx::PackedScene::6717958733159041564::1710932522::1710932677::1::::<><>::
-Block_Dirt.fbx::PackedScene::6388041766579401924::1710932522::1710932676::1::::<><>::
-Block_Grass.fbx::PackedScene::5681224202074502994::1710932522::1710932676::1::::<><>::
-Block_GreyBricks.fbx::PackedScene::8694192007538699838::1710932522::1710932648::1::::<><>::
-Block_Ice.fbx::PackedScene::753841430898014497::1710932522::1710932648::1::::<><>::
-Block_Metal.fbx::PackedScene::2327362685865046640::1710932522::1710932648::1::::<><>::
-Block_Snow.fbx::PackedScene::2880764550258191350::1710932522::1710932647::1::::<><>::
-Block_Stone.fbx::PackedScene::8816404758232334430::1710932522::1710932647::1::::<><>::
-Block_WoodPlanks.fbx::PackedScene::4729964757467149451::1710932522::1710932646::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Blocks/glTF/::1710932729
-Block_Blank.gltf::PackedScene::6897984594849966024::1710932522::1710932646::1::::<><>::uid://cc4bn3pmw3mkv::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Blank_Atlas.png
-Block_Blank_Atlas.png::CompressedTexture2D::4973171436245139993::1710932646::1710932729::1::::<><>::
-Block_Brick.gltf::PackedScene::4278999102636386739::1710932522::1710932646::1::::<><>::uid://b2cxsbkjirpjn::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Brick_Atlas.png
-Block_Brick_Atlas.png::CompressedTexture2D::4287076920943701411::1710932645::1710932729::1::::<><>::
-Block_Cheese.gltf::PackedScene::5354419757014099626::1710932522::1710932645::1::::<><>::uid://thckogynwjxj::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Cheese_Atlas.png
-Block_Cheese_Atlas.png::CompressedTexture2D::1348178711030042555::1710932645::1710932729::1::::<><>::
-Block_Coal.gltf::PackedScene::3835845175159745612::1710932522::1710932645::1::::<><>::uid://cow8bcjf4amct::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Coal_Atlas.png
-Block_Coal_Atlas.png::CompressedTexture2D::5802907054679053623::1710932645::1710932729::1::::<><>::
-Block_Crate.gltf::PackedScene::6104659353504974956::1710932522::1710932644::1::::<><>::uid://c82smj65reui4::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Crate_Atlas.png
-Block_Crate_Atlas.png::CompressedTexture2D::7145926264182589101::1710932644::1710932729::1::::<><>::
-Block_Crystal.gltf::PackedScene::4292197605833826988::1710932522::1710932644::1::::<><>::uid://btigvs4w2wytx::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Crystal_Atlas.png
-Block_Crystal_Atlas.png::CompressedTexture2D::3736926529732980317::1710932644::1710932729::1::::<><>::
-Block_Diamond.gltf::PackedScene::8672827174426069796::1710932522::1710932644::1::::<><>::uid://bct0wkivii30c::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Diamond_Atlas.png
-Block_Diamond_Atlas.png::CompressedTexture2D::2567579299138489892::1710932643::1710932729::1::::<><>::
-Block_Dirt.gltf::PackedScene::1662990540736053358::1710932522::1710932643::1::::<><>::uid://c8aebnr3rbly::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Dirt_Atlas.png
-Block_Dirt_Atlas.png::CompressedTexture2D::208509369751953850::1710932643::1710932729::1::::<><>::
-Block_Grass.gltf::PackedScene::5249617827276102443::1710932522::1710932643::1::::<><>::uid://c3yi4erkdc1qm::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Grass_Atlas.png
-Block_Grass_Atlas.png::CompressedTexture2D::6788211816127465300::1710932643::1710932729::1::::<><>::
-Block_GreyBricks.gltf::PackedScene::5895690268149322632::1710932522::1710932642::1::::<><>::uid://ryfo4nvv6s6s::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_GreyBricks_Atlas.png
-Block_GreyBricks_Atlas.png::CompressedTexture2D::1243085538265544864::1710932642::1710932729::1::::<><>::
-Block_Ice.gltf::PackedScene::2061843645327236702::1710932522::1710932642::1::::<><>::uid://bia3k5rlm4tdq::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Ice_Atlas.png
-Block_Ice_Atlas.png::CompressedTexture2D::2949650969013037066::1710932642::1710932729::1::::<><>::
-Block_Metal.gltf::PackedScene::2459524857737361754::1710932522::1710932642::1::::<><>::uid://dgdb4uwf3wf15::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Metal_Atlas.png
-Block_Metal_Atlas.png::CompressedTexture2D::7586701835903851190::1710932641::1710932729::1::::<><>::
-Block_Snow.gltf::PackedScene::8787892842710543722::1710932522::1710932641::1::::<><>::uid://d2w77b1njinwe::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Snow_Atlas.png
-Block_Snow_Atlas.png::CompressedTexture2D::9101777322360258836::1710932641::1710932729::1::::<><>::
-Block_Stone.gltf::PackedScene::853588748063480049::1710932522::1710932641::1::::<><>::uid://bmv32o55guj0y::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_Stone_Atlas.png
-Block_Stone_Atlas.png::CompressedTexture2D::3273787815460550734::1710932641::1710932729::1::::<><>::
-Block_WoodPlanks.gltf::PackedScene::8195726219759210273::1710932522::1710932640::1::::<><>::uid://cvqvv0x24y7bc::::res://Assets/Cube World - Aug 2023/Blocks/glTF/Block_WoodPlanks_Atlas.png
-Block_WoodPlanks_Atlas.png::CompressedTexture2D::6281151036250682836::1710932640::1710932729::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Blocks/OBJ/::1710932573
-Block_Blank.obj::Mesh::6826584559385658923::1710932522::1710932573::1::::<><>::
-Block_Brick.obj::Mesh::7613696009771187592::1710932522::1710932573::1::::<><>::
-Block_Cheese.obj::Mesh::2991191941661276389::1710932522::1710932573::1::::<><>::
-Block_Coal.obj::Mesh::952926858166166493::1710932522::1710932573::1::::<><>::
-Block_Crate.obj::Mesh::6571424165717292671::1710932522::1710932573::1::::<><>::
-Block_Crystal.obj::Mesh::1130610877181643804::1710932522::1710932572::1::::<><>::
-Block_Diamond.obj::Mesh::6241073150898653872::1710932522::1710932572::1::::<><>::
-Block_Dirt.obj::Mesh::1970523985991004208::1710932522::1710932572::1::::<><>::
-Block_Grass.obj::Mesh::2240128097809784345::1710932522::1710932572::1::::<><>::
-Block_GreyBricks.obj::Mesh::989167125009083333::1710932522::1710932572::1::::<><>::
-Block_Ice.obj::Mesh::914833960662967924::1710932522::1710932572::1::::<><>::
-Block_Metal.obj::Mesh::931805493333825367::1710932522::1710932572::1::::<><>::
-Block_Snow.obj::Mesh::736390886722327731::1710932522::1710932572::1::::<><>::
-Block_Stone.obj::Mesh::2235949783118162742::1710932522::1710932572::1::::<><>::
-Block_WoodPlanks.obj::Mesh::5301827589743305383::1710932522::1710932572::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Characters/::1710932520
-::res://Assets/Cube World - Aug 2023/Characters/Blends/::1710932663
-Character_Female_1.blend::PackedScene::7956557461362433427::1710932522::1710932640::1::::<><>::
-Character_Female_2.blend::PackedScene::191711610163915131::1710932522::1710932639::1::::<><>::
-Character_Male_1.blend::PackedScene::6773940585973884387::1710932522::1710932637::1::::<><>::
-Character_Male_2.blend::PackedScene::4817499454679782501::1710932522::1710932663::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Characters/Blends/textures/::1710932728
-Atlas.png::CompressedTexture2D::6596509897973116564::1710932636::1710932728::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Characters/FBX/::1710932662
-Character_Female_1.fbx::PackedScene::1515191826696227156::1710932522::1710932662::1::::<><>::
-Character_Female_2.fbx::PackedScene::2328543542097350786::1710932522::1710932661::1::::<><>::
-Character_Male_1.fbx::PackedScene::4371757284820422550::1710932522::1710932660::1::::<><>::
-Character_Male_2.fbx::PackedScene::2412702503854901832::1710932522::1710932659::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Characters/glTF/::1710932729
-Character_Female_1.gltf::PackedScene::3405138573886880687::1710932522::1710932658::1::::<><>::uid://cn62bbfs0ccja::::res://Assets/Cube World - Aug 2023/Characters/glTF/Character_Female_1_Atlas.png
-Character_Female_1_Atlas.png::CompressedTexture2D::5750933250753775066::1710932657::1710932729::1::::<><>::
-Character_Female_2.gltf::PackedScene::1798457428350015527::1710932522::1710932657::1::::<><>::uid://r5j6kfdo3743::::res://Assets/Cube World - Aug 2023/Characters/glTF/Character_Female_2_Atlas.png
-Character_Female_2_Atlas.png::CompressedTexture2D::1255744020127970774::1710932657::1710932729::1::::<><>::
-Character_Male_1.gltf::PackedScene::3743922547630716784::1710932522::1710932657::1::::<><>::uid://bier76or4wx3b::::res://Assets/Cube World - Aug 2023/Characters/glTF/Character_Male_1_Atlas.png
-Character_Male_1_Atlas.png::CompressedTexture2D::2957279928758750261::1710932657::1710932729::1::::<><>::
-Character_Male_2.gltf::PackedScene::2430125841503271457::1710932522::1710932656::1::::<><>::uid://bi3i74q7ig70o::::res://Assets/Cube World - Aug 2023/Characters/glTF/Character_Male_2_Atlas.png
-Character_Male_2_Atlas.png::CompressedTexture2D::3006278440617045008::1710932656::1710932729::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Characters/OBJ/::1710932577
-Character_Female_1.obj::Mesh::1100954375501400368::1710932522::1710932577::1::::<><>::
-Character_Female_2.obj::Mesh::3662129670559508518::1710932522::1710932577::1::::<><>::
-Character_Male_1.obj::Mesh::3523474126237598101::1710932522::1710932577::1::::<><>::
-Character_Male_2.obj::Mesh::3335631730266573003::1710932522::1710932577::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Enemies/::1710932521
-::res://Assets/Cube World - Aug 2023/Enemies/Blends/::1710932656
-Demon.blend::PackedScene::7562964810282993629::1710932522::1710932656::1::::<><>::
-Giant.blend::PackedScene::5007797297257877184::1710932522::1710932656::1::::<><>::
-Goblin.blend::PackedScene::6861783948514561133::1710932522::1710932655::1::::<><>::
-Hedgehog.blend::PackedScene::1925774041422720103::1710932522::1710932655::1::::<><>::
-Skeleton.blend::PackedScene::4082506487291472183::1710932522::1710932654::1::::<><>::
-Skeleton_Armor.blend::PackedScene::3918103262893381036::1710932522::1710932654::1::::<><>::
-Wizard.blend::PackedScene::559044836503246707::1710932522::1710932653::1::::<><>::
-Yeti.blend::PackedScene::5485284339208416431::1710932522::1710932653::1::::<><>::
-Zombie.blend::PackedScene::8496401977414477907::1710932522::1710932652::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Enemies/Blends/textures/::1710932728
-Atlas.png::CompressedTexture2D::5680973783881641044::1710932652::1710932728::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Enemies/FBX/::1710932717
-Demon.fbx::PackedScene::1996185836841378199::1710932522::1710932652::1::::<><>::
-Giant.fbx::PackedScene::2642398601047022013::1710932522::1710932651::1::::<><>::
-Goblin.fbx::PackedScene::1052472008055976::1710932522::1710932651::1::::<><>::
-Hedgehog.fbx::PackedScene::7778556474449902725::1710932522::1710932650::1::::<><>::
-Skeleton.fbx::PackedScene::885618732958458266::1710932522::1710932650::1::::<><>::
-Skeleton_Armor.fbx::PackedScene::4343876737173669843::1710932522::1710932650::1::::<><>::
-Wizard.fbx::PackedScene::6828333454036981698::1710932522::1710932649::1::::<><>::
-Yeti.fbx::PackedScene::2105573647898829334::1710932522::1710932717::1::::<><>::
-Zombie.fbx::PackedScene::2556100540282590036::1710932522::1710932716::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Enemies/glTF/::1710932758
-Demon.gltf::PackedScene::5471416218455597242::1710932522::1710932716::1::::<><>::uid://coilswp0papoe::::res://Assets/Cube World - Aug 2023/Enemies/glTF/Demon_Atlas.png
-Demon_Atlas.png::CompressedTexture2D::5772701411403570796::1710932716::1710932729::1::::<><>::
-Giant.gltf::PackedScene::7531809395747539527::1710932522::1710932715::1::::<><>::uid://d1qr2xb121dxx::::res://Assets/Cube World - Aug 2023/Enemies/glTF/Giant_Atlas.png
-Giant_Atlas.png::CompressedTexture2D::9018283645845849649::1710932715::1710932729::1::::<><>::
-Goblin.gltf::PackedScene::1111621815606339144::1710932522::1710932715::1::::<><>::uid://dkkelcs63ti8y::::res://Assets/Cube World - Aug 2023/Enemies/glTF/Goblin_Atlas.png
-Goblin_Atlas.png::CompressedTexture2D::7882056911004096978::1710932715::1710932729::1::::<><>::
-Hedgehog.gltf::PackedScene::5793941769194321790::1710932522::1710932715::1::::<><>::uid://cqllery5rf318::::res://Assets/Cube World - Aug 2023/Enemies/glTF/Hedgehog_Atlas.png
-Hedgehog_Atlas.png::CompressedTexture2D::5919246982343697149::1710932714::1710932729::1::::<><>::
-Skeleton.gltf::PackedScene::7169365665169005529::1710932522::1710932714::1::::<><>::uid://crjjhwrao0jr::::res://Assets/Cube World - Aug 2023/Enemies/glTF/Skeleton_Armor_Atlas.png
-Skeleton_Armor.gltf::PackedScene::3837973990478169621::1710932522::1710932714::1::::<><>::uid://dydnph651370j::::res://Assets/Cube World - Aug 2023/Enemies/glTF/Wizard_Atlas.png
-Skeleton_Armor_Atlas.png::CompressedTexture2D::176035036597253047::1710932714::1710932729::1::::<><>::
-Skeleton_Atlas.png::CompressedTexture2D::2986644283129115590::1710932714::1710932729::1::::<><>::
-Wizard.gltf::PackedScene::5398303991035153377::1710932522::1710932713::1::::<><>::uid://cq38gidu33ce1::::res://Assets/Cube World - Aug 2023/Enemies/glTF/Yeti_Atlas.png
-Wizard_Atlas.png::CompressedTexture2D::8850803956420130907::1710932713::1710932729::1::::<><>::
-Yeti.gltf::PackedScene::2683400117136281711::1710932522::1710932713::1::::<><>::uid://tpdctpo817i0::::res://Assets/Cube World - Aug 2023/Enemies/glTF/Zombie_Atlas.png
-Yeti_Atlas.png::CompressedTexture2D::5955680244001559946::1710932713::1710932729::1::::<><>::
-Zombie.gltf::PackedScene::2683400117136281711::1710932522::1710932758::1::::<><>::uid://tpdctpo817i0::::res://Assets/Cube World - Aug 2023/Enemies/glTF/Zombie_Atlas.png
-Zombie_Atlas.png::CompressedTexture2D::1364740439796594313::1710932712::1710932729::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Enemies/OBJ/::1710932575
-Demon.obj::Mesh::6153709676499314430::1710932523::1710932575::1::::<><>::
-Giant.obj::Mesh::7719383384647799290::1710932523::1710932575::1::::<><>::
-Goblin.obj::Mesh::7601312165922886616::1710932523::1710932575::1::::<><>::
-Hedgehog.obj::Mesh::3187998798695456574::1710932523::1710932575::1::::<><>::
-Skeleton.obj::Mesh::5548250271910312744::1710932523::1710932575::1::::<><>::
-Skeleton_Armor.obj::Mesh::5229474918616334159::1710932523::1710932575::1::::<><>::
-Wizard.obj::Mesh::7811298937003887996::1710932523::1710932575::1::::<><>::
-Yeti.obj::Mesh::7302258679985771640::1710932523::1710932574::1::::<><>::
-Zombie.obj::Mesh::6885794000711999014::1710932523::1710932574::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Environment/::1710932521
-::res://Assets/Cube World - Aug 2023/Environment/Blends/::1710932727
-Bamboo.blend::PackedScene::2398457052291731369::1710932523::1710932712::1::::<><>::
-Bamboo_Mid.blend::PackedScene::1703363164175798942::1710932523::1710932712::1::::<><>::
-Bamboo_Small.blend::PackedScene::4950645541378909066::1710932523::1710932711::1::::<><>::
-Bush.blend::PackedScene::8195065463603524423::1710932523::1710932711::1::::<><>::
-Button.blend::PackedScene::1891987288960642746::1710932523::1710932711::1::::<><>::
-Button_Pressed.blend::PackedScene::6264863432742500523::1710932523::1710932710::1::::<><>::
-Cart.blend::PackedScene::1616648582713639804::1710932523::1710932710::1::::<><>::
-Chest_Closed.blend::PackedScene::628696011561197245::1710932523::1710932709::1::::<><>::
-Chest_Open.blend::PackedScene::1433730839707018110::1710932523::1710932709::1::::<><>::
-Crystal_Big.blend::PackedScene::7822610394839432576::1710932523::1710932709::1::::<><>::
-Crystal_Small.blend::PackedScene::3101952952639001947::1710932523::1710932708::1::::<><>::
-DeadTree_1.blend::PackedScene::2164989307390780035::1710932523::1710932708::1::::<><>::
-DeadTree_2.blend::PackedScene::496209583686257166::1710932523::1710932707::1::::<><>::
-DeadTree_3.blend::PackedScene::1867787720536556675::1710932523::1710932707::1::::<><>::
-Door_Closed.blend::PackedScene::6653797638416744064::1710932523::1710932727::1::::<><>::
-Fence_Center.blend::PackedScene::1038701618909298121::1710932523::1710932726::1::::<><>::
-Fence_Corner.blend::PackedScene::6278884634832439356::1710932523::1710932726::1::::<><>::
-Fence_End.blend::PackedScene::346988527283144165::1710932523::1710932725::1::::<><>::
-Fence_T.blend::PackedScene::9074146451248664480::1710932523::1710932725::1::::<><>::
-Flowers_1.blend::PackedScene::5942920500619531925::1710932523::1710932725::1::::<><>::
-Flowers_2.blend::PackedScene::7719316398659519723::1710932523::1710932724::1::::<><>::
-Grass_Big.blend::PackedScene::7938839024348243400::1710932523::1710932724::1::::<><>::
-Grass_Small.blend::PackedScene::5062338098403827133::1710932523::1710932723::1::::<><>::
-Key.blend::PackedScene::1005069356023201659::1710932523::1710932723::1::::<><>::
-Lever_Left.blend::PackedScene::2375567224167820692::1710932523::1710932723::1::::<><>::
-Lever_Right.blend::PackedScene::4357281631614038938::1710932523::1710932722::1::::<><>::
-Mushroom.blend::PackedScene::5703369216786861129::1710932523::1710932722::1::::<><>::
-Plant_2.blend::PackedScene::8226060991571188796::1710932523::1710932721::1::::<><>::
-Plant_3.blend::PackedScene::2384538385253513737::1710932523::1710932721::1::::<><>::
-Rail_Corner.blend::PackedScene::6487350712319622666::1710932523::1710932721::1::::<><>::
-Rail_Incline.blend::PackedScene::6602487390484600492::1710932523::1710932720::1::::<><>::
-Rail_Straight.blend::PackedScene::906841554259487444::1710932523::1710932720::1::::<><>::
-Rock1.blend::PackedScene::8282075321667591604::1710932523::1710932719::1::::<><>::
-Rock2.blend::PackedScene::406444548653996634::1710932523::1710932719::1::::<><>::
-Stone.blend::PackedScene::7718320253332578842::1710932523::1710932719::1::::<><>::
-Tree_1.blend::PackedScene::7818318923078592296::1710932523::1710932718::1::::<><>::
-Tree_2.blend::PackedScene::3625418660725755742::1710932523::1710932718::1::::<><>::
-Tree_3.blend::PackedScene::6297080872948457417::1710932523::1710932717::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Environment/Blends/textures/::1710932728
-Atlas.png::CompressedTexture2D::8892330207465396261::1710932707::1710932728::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Environment/FBX/::1710932717
-Bamboo.fbx::PackedScene::4098693576523906176::1710932523::1710932717::1::::<><>::
-Bamboo_Mid.fbx::PackedScene::5839069413468765796::1710932523::1710932695::1::::<><>::
-Bamboo_Small.fbx::PackedScene::7239616431888756294::1710932523::1710932695::1::::<><>::
-Bush.fbx::PackedScene::2952290912287155993::1710932523::1710932695::1::::<><>::
-Button_Pressed.fbx::PackedScene::2716198918294902989::1710932523::1710932694::1::::<><>::
-Cart.fbx::PackedScene::774456893334770081::1710932523::1710932694::1::::<><>::
-Chest_Closed.fbx::PackedScene::4996794764370118669::1710932523::1710932693::1::::<><>::
-Chest_Open.fbx::PackedScene::8015358466647918644::1710932523::1710932693::1::::<><>::
-Crystal_Big.fbx::PackedScene::358217695736092410::1710932523::1710932693::1::::<><>::
-Crystal_Small.fbx::PackedScene::8644446019846995652::1710932523::1710932692::1::::<><>::
-DeadTree_1.fbx::PackedScene::497019126127209986::1710932523::1710932692::1::::<><>::
-DeadTree_2.fbx::PackedScene::2099785962244704840::1710932523::1710932691::1::::<><>::
-DeadTree_3.fbx::PackedScene::5771949604674177421::1710932523::1710932691::1::::<><>::
-Door_Closed.fbx::PackedScene::6933082967818231167::1710932523::1710932691::1::::<><>::
-Fence_Center.fbx::PackedScene::3228337849200672452::1710932523::1710932690::1::::<><>::
-Fence_Corner.fbx::PackedScene::616493674985201733::1710932523::1710932690::1::::<><>::
-Fence_End.fbx::PackedScene::4092261875696505047::1710932523::1710932689::1::::<><>::
-Fence_T.fbx::PackedScene::1916442353957058106::1710932523::1710932689::1::::<><>::
-Flowers_1.fbx::PackedScene::8493554515180364125::1710932523::1710932689::1::::<><>::
-Flowers_2.fbx::PackedScene::7197905780851872033::1710932523::1710932688::1::::<><>::
-Grass_Big.fbx::PackedScene::7924825459669035136::1710932523::1710932688::1::::<><>::
-Grass_Small.fbx::PackedScene::9015852592922798967::1710932523::1710932687::1::::<><>::
-Key.fbx::PackedScene::1142030198190463681::1710932523::1710932687::1::::<><>::
-Lever_Left.fbx::PackedScene::2434094214690028846::1710932523::1710932687::1::::<><>::
-Lever_Right.fbx::PackedScene::4441871980648242403::1710932523::1710932686::1::::<><>::
-Mushroom.fbx::PackedScene::9203877850379525728::1710932523::1710932686::1::::<><>::
-Plant_2.fbx::PackedScene::1710806141794421711::1710932523::1710932706::1::::<><>::
-Plant_3.fbx::PackedScene::591456988670372425::1710932523::1710932706::1::::<><>::
-Rail_Corner.fbx::PackedScene::1176550860904171223::1710932523::1710932706::1::::<><>::
-Rail_Incline.fbx::PackedScene::7453718974259734937::1710932523::1710932705::1::::<><>::
-Rail_Straight.fbx::PackedScene::4687587616067259415::1710932523::1710932705::1::::<><>::
-Rock1.fbx::PackedScene::2036320562841084674::1710932523::1710932705::1::::<><>::
-Rock2.fbx::PackedScene::504665718572280313::1710932523::1710932704::1::::<><>::
-Tree_1.fbx::PackedScene::2447980774943597577::1710932523::1710932704::1::::<><>::
-Tree_2.fbx::PackedScene::8914865791437037528::1710932523::1710932703::1::::<><>::
-Tree_3.fbx::PackedScene::3611541109982844858::1710932523::1710932703::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Environment/glTF/::1710932729
-Bamboo.gltf::PackedScene::1997658406347528846::1710932523::1710932703::1::::<><>::uid://ben4ni43bqv8d::::res://Assets/Cube World - Aug 2023/Environment/glTF/Bamboo_Atlas.png
-Bamboo_Atlas.png::CompressedTexture2D::2695797443419310473::1710932702::1710932729::1::::<><>::
-Bamboo_Mid.gltf::PackedScene::7937775127834472222::1710932523::1710932702::1::::<><>::uid://bfosakhivln66::::res://Assets/Cube World - Aug 2023/Environment/glTF/Bamboo_Mid_Atlas.png
-Bamboo_Mid_Atlas.png::CompressedTexture2D::2767359632749023449::1710932702::1710932729::1::::<><>::
-Bamboo_Small.gltf::PackedScene::6221674743505734743::1710932523::1710932701::1::::<><>::uid://bmlp5lvieajyi::::res://Assets/Cube World - Aug 2023/Environment/glTF/Bamboo_Small_Atlas.png
-Bamboo_Small_Atlas.png::CompressedTexture2D::3252359901919375324::1710932701::1710932729::1::::<><>::
-Bush.gltf::PackedScene::7254666212678635674::1710932523::1710932701::1::::<><>::uid://ojcn06eje1yp::::res://Assets/Cube World - Aug 2023/Environment/glTF/Bush_Atlas.png
-Bush_Atlas.png::CompressedTexture2D::1001369221191935255::1710932700::1710932729::1::::<><>::
-Button.gltf::PackedScene::4669026241527916515::1710932523::1710932700::1::::<><>::uid://craulyhj23cr5::::res://Assets/Cube World - Aug 2023/Environment/glTF/Button_Atlas.png
-Button_Atlas.png::CompressedTexture2D::5967286964641173464::1710932699::1710932729::1::::<><>::
-Cart.gltf::PackedScene::7650882919984738194::1710932523::1710932699::1::::<><>::uid://d0aipsg5eowlp::::res://Assets/Cube World - Aug 2023/Environment/glTF/Cart_Atlas.png
-Cart_Atlas.png::CompressedTexture2D::8914496620938931149::1710932699::1710932729::1::::<><>::
-Chest_Closed.gltf::PackedScene::4345579574217410574::1710932523::1710932699::1::::<><>::uid://bwdv1e8glrk3i::::res://Assets/Cube World - Aug 2023/Environment/glTF/Chest_Closed_Atlas.png
-Chest_Closed_Atlas.png::CompressedTexture2D::3938090125841555104::1710932699::1710932729::1::::<><>::
-Chest_Open.gltf::PackedScene::2238376244402458484::1710932523::1710932699::1::::<><>::uid://drdkn23wdkwv4::::res://Assets/Cube World - Aug 2023/Environment/glTF/Chest_Open_Atlas.png
-Chest_Open_Atlas.png::CompressedTexture2D::8359297373825446399::1710932698::1710932729::1::::<><>::
-Crystal_Big.gltf::PackedScene::3105916129218434527::1710932523::1710932698::1::::<><>::uid://bjlq7rlux80s5::::res://Assets/Cube World - Aug 2023/Environment/glTF/Crystal_Big_Atlas.png
-Crystal_Big_Atlas.png::CompressedTexture2D::3041857959849841950::1710932698::1710932729::1::::<><>::
-Crystal_Small.gltf::PackedScene::5140766146023990432::1710932523::1710932698::1::::<><>::uid://bvg6hixoogd01::::res://Assets/Cube World - Aug 2023/Environment/glTF/Crystal_Small_Atlas.png
-Crystal_Small_Atlas.png::CompressedTexture2D::3874667850321581960::1710932697::1710932729::1::::<><>::
-DeadTree_1.gltf::PackedScene::8005990955470582145::1710932523::1710932697::1::::<><>::uid://dfktokr223w4j::::res://Assets/Cube World - Aug 2023/Environment/glTF/DeadTree_1_Atlas.png
-DeadTree_1_Atlas.png::CompressedTexture2D::7532029223546435179::1710932697::1710932729::1::::<><>::
-DeadTree_2.gltf::PackedScene::5958923341170502342::1710932523::1710932697::1::::<><>::uid://ck46wm5ku3q3::::res://Assets/Cube World - Aug 2023/Environment/glTF/DeadTree_2_Atlas.png
-DeadTree_2_Atlas.png::CompressedTexture2D::162838792646543020::1710932697::1710932729::1::::<><>::
-DeadTree_3.gltf::PackedScene::8132823815916059520::1710932523::1710932697::1::::<><>::uid://qyenlexv1oud::::res://Assets/Cube World - Aug 2023/Environment/glTF/DeadTree_3_Atlas.png
-DeadTree_3_Atlas.png::CompressedTexture2D::1172833232607968099::1710932696::1710932729::1::::<><>::
-Door_Closed.gltf::PackedScene::6229353675197636525::1710932523::1710932696::1::::<><>::uid://w8mybnnk4xrj::::res://Assets/Cube World - Aug 2023/Environment/glTF/Door_Closed_Atlas.png
-Door_Closed_Atlas.png::CompressedTexture2D::1613050562098598543::1710932696::1710932729::1::::<><>::
-Fence_Center.gltf::PackedScene::5515594760840976086::1710932523::1710932696::1::::<><>::uid://crhfb4perpab1::::res://Assets/Cube World - Aug 2023/Environment/glTF/Fence_Center_Atlas.png
-Fence_Center_Atlas.png::CompressedTexture2D::5980809270823177732::1710932695::1710932729::1::::<><>::
-Fence_Corner.gltf::PackedScene::8235396790790652729::1710932523::1710932601::1::::<><>::uid://cghxo51bsxwvc::::res://Assets/Cube World - Aug 2023/Environment/glTF/Fence_Corner_Atlas.png
-Fence_Corner_Atlas.png::CompressedTexture2D::5209848181376950812::1710932601::1710932729::1::::<><>::
-Fence_End.gltf::PackedScene::2574043173446434400::1710932523::1710932601::1::::<><>::uid://c5twborfha5gd::::res://Assets/Cube World - Aug 2023/Environment/glTF/Fence_End_Atlas.png
-Fence_End_Atlas.png::CompressedTexture2D::6919068175314219927::1710932601::1710932729::1::::<><>::
-Fence_T.gltf::PackedScene::494357471982017378::1710932523::1710932600::1::::<><>::uid://5dbp4suwoecs::::res://Assets/Cube World - Aug 2023/Environment/glTF/Fence_T_Atlas.png
-Fence_T_Atlas.png::CompressedTexture2D::2111947498226787254::1710932600::1710932729::1::::<><>::
-Flowers_1.gltf::PackedScene::7591121891200062151::1710932523::1710932600::1::::<><>::uid://bi13u5fb2efma::::res://Assets/Cube World - Aug 2023/Environment/glTF/Flowers_1_Atlas.png
-Flowers_1_Atlas.png::CompressedTexture2D::3003342629584679516::1710932600::1710932729::1::::<><>::
-Flowers_2.gltf::PackedScene::7080151036351292931::1710932523::1710932600::1::::<><>::uid://c8cehf1phljui::::res://Assets/Cube World - Aug 2023/Environment/glTF/Flowers_2_Atlas.png
-Flowers_2_Atlas.png::CompressedTexture2D::7093457634950785148::1710932599::1710932729::1::::<><>::
-Grass_Big.gltf::PackedScene::8174598674860434138::1710932523::1710932599::1::::<><>::uid://c7r5bf4e64apm::::res://Assets/Cube World - Aug 2023/Environment/glTF/Grass_Big_Atlas.png
-Grass_Big_Atlas.png::CompressedTexture2D::7055802388839540642::1710932599::1710932729::1::::<><>::
-Grass_Small.gltf::PackedScene::1679002621871149017::1710932523::1710932599::1::::<><>::uid://vxxl47hr3nln::::res://Assets/Cube World - Aug 2023/Environment/glTF/Grass_Small_Atlas.png
-Grass_Small_Atlas.png::CompressedTexture2D::1522864112261414535::1710932599::1710932729::1::::<><>::
-Key.gltf::PackedScene::5690285546100421528::1710932523::1710932598::1::::<><>::uid://bsdcc0hstl7ou::::res://Assets/Cube World - Aug 2023/Environment/glTF/Key_Atlas.png
-Key_Atlas.png::CompressedTexture2D::3656139332754288376::1710932598::1710932729::1::::<><>::
-Lever_Left.gltf::PackedScene::4663329411945079338::1710932523::1710932598::1::::<><>::uid://cq5xbep02qkca::::res://Assets/Cube World - Aug 2023/Environment/glTF/Lever_Left_Atlas.png
-Lever_Left_Atlas.png::CompressedTexture2D::5959192709282121084::1710932598::1710932729::1::::<><>::
-Lever_Right.gltf::PackedScene::5819311886824539898::1710932523::1710932598::1::::<><>::uid://dvgyk4bt8fmvs::::res://Assets/Cube World - Aug 2023/Environment/glTF/Lever_Right_Atlas.png
-Lever_Right_Atlas.png::CompressedTexture2D::8647090625397327844::1710932597::1710932729::1::::<><>::
-Mushroom.gltf::PackedScene::1166062900296419095::1710932523::1710932597::1::::<><>::uid://coynuihe5syke::::res://Assets/Cube World - Aug 2023/Environment/glTF/Mushroom_Atlas.png
-Mushroom_Atlas.png::CompressedTexture2D::5805855712423151464::1710932597::1710932729::1::::<><>::
-Plant_2.gltf::PackedScene::830152007867461725::1710932523::1710932597::1::::<><>::uid://d34excip1e514::::res://Assets/Cube World - Aug 2023/Environment/glTF/Plant_2_Atlas.png
-Plant_2_Atlas.png::CompressedTexture2D::9184700687164426409::1710932597::1710932729::1::::<><>::
-Plant_3.gltf::PackedScene::749729498614570043::1710932523::1710932596::1::::<><>::uid://crq6airlsiwqr::::res://Assets/Cube World - Aug 2023/Environment/glTF/Plant_3_Atlas.png
-Plant_3_Atlas.png::CompressedTexture2D::6000964427046129801::1710932596::1710932729::1::::<><>::
-Rail_Corner.gltf::PackedScene::6772245536198847823::1710932523::1710932596::1::::<><>::uid://ci1b7lpl7lqif::::res://Assets/Cube World - Aug 2023/Environment/glTF/Rail_Corner_Atlas.png
-Rail_Corner_Atlas.png::CompressedTexture2D::5388144401965659853::1710932596::1710932729::1::::<><>::
-Rail_Incline.gltf::PackedScene::666578524897814970::1710932523::1710932596::1::::<><>::uid://bgo66yjxwecv7::::res://Assets/Cube World - Aug 2023/Environment/glTF/Rail_Incline_Atlas.png
-Rail_Incline_Atlas.png::CompressedTexture2D::2838393896003162002::1710932595::1710932729::1::::<><>::
-Rail_Straight.gltf::PackedScene::1964192884125726582::1710932523::1710932595::1::::<><>::uid://dfwfvd2ugbhmo::::res://Assets/Cube World - Aug 2023/Environment/glTF/Rail_Straight_Atlas.png
-Rail_Straight_Atlas.png::CompressedTexture2D::7555963866691159274::1710932595::1710932729::1::::<><>::
-Rock1.gltf::PackedScene::8307280275473635229::1710932523::1710932595::1::::<><>::uid://bs5p6500pfscr::::res://Assets/Cube World - Aug 2023/Environment/glTF/Rock2_Atlas.png
-Rock1_Atlas.png::CompressedTexture2D::8251562613844571588::1710932595::1710932729::1::::<><>::
-Rock2.gltf::PackedScene::4852083223903610355::1710932523::1710932594::1::::<><>::uid://jqnasy6lqimr::::res://Assets/Cube World - Aug 2023/Environment/glTF/Tree_1_Atlas.png
-Rock2_Atlas.png::CompressedTexture2D::3712718931778788757::1710932594::1710932729::1::::<><>::
-Tree_1.gltf::PackedScene::5275339021109377853::1710932523::1710932594::1::::<><>::uid://cptv7rpn87a6t::::res://Assets/Cube World - Aug 2023/Environment/glTF/Tree_2_Atlas.png
-Tree_1_Atlas.png::CompressedTexture2D::665519941632656857::1710932594::1710932729::1::::<><>::
-Tree_2.gltf::PackedScene::2891156825311094827::1710932523::1710932594::1::::<><>::uid://eodjos0imm4p::::res://Assets/Cube World - Aug 2023/Environment/glTF/Tree_3_Atlas.png
-Tree_2_Atlas.png::CompressedTexture2D::5866230318241913121::1710932593::1710932729::1::::<><>::
-Tree_3.gltf::PackedScene::2891156825311094827::1710932523::1710932593::0::::<><>::
-Tree_3_Atlas.png::CompressedTexture2D::309855650512854169::1710932593::1710932729::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Environment/OBJ/::1710932582
-Bamboo.obj::Mesh::3352784826877157716::1710932523::1710932582::1::::<><>::
-Bamboo_Mid.obj::Mesh::2896474889070428543::1710932523::1710932581::1::::<><>::
-Bamboo_Small.obj::Mesh::3307271232219300545::1710932523::1710932581::1::::<><>::
-Bush.obj::Mesh::5062951223577477355::1710932523::1710932581::1::::<><>::
-Button.obj::Mesh::6768635383713080046::1710932523::1710932581::1::::<><>::
-Button_Pressed.obj::Mesh::8826520641846463484::1710932523::1710932581::1::::<><>::
-Cart.obj::Mesh::6056194148625602043::1710932523::1710932581::1::::<><>::
-Cat.obj::Mesh::3346726820921069202::1710932523::1710932581::1::::<><>::
-Chest_Closed.obj::Mesh::2197373711050398714::1710932523::1710932581::1::::<><>::
-Chest_Open.obj::Mesh::777351153354670418::1710932523::1710932581::1::::<><>::
-Crystal_Big.obj::Mesh::7610446868333443229::1710932523::1710932581::1::::<><>::
-Crystal_Small.obj::Mesh::660815101802118574::1710932523::1710932580::1::::<><>::
-DeadTree_1.obj::Mesh::5602716888663231234::1710932523::1710932580::1::::<><>::
-DeadTree_2.obj::Mesh::2309068096179063785::1710932523::1710932580::1::::<><>::
-DeadTree_3.obj::Mesh::3069645876355149447::1710932523::1710932580::1::::<><>::
-Door_Closed.obj::Mesh::1622372281220390358::1710932523::1710932580::1::::<><>::
-Fence_Center.obj::Mesh::7406232976470652575::1710932523::1710932580::1::::<><>::
-Fence_Corner.obj::Mesh::579350992429370061::1710932523::1710932582::1::::<><>::
-Fence_End.obj::Mesh::6407752273419842858::1710932523::1710932582::1::::<><>::
-Fence_T.obj::Mesh::5905414871473716932::1710932523::1710932582::1::::<><>::
-Flowers_1.obj::Mesh::6442744477780006756::1710932523::1710932574::1::::<><>::
-Flowers_2.obj::Mesh::6146547760440450311::1710932523::1710932574::1::::<><>::
-Grass_Big.obj::Mesh::775419531293477455::1710932523::1710932574::1::::<><>::
-Grass_Small.obj::Mesh::2767863453327077070::1710932523::1710932574::1::::<><>::
-Key.obj::Mesh::5340688984881801241::1710932523::1710932574::1::::<><>::
-Lever_Left.obj::Mesh::6721923974377058321::1710932524::1710932574::1::::<><>::
-Lever_Right.obj::Mesh::7564550481451248946::1710932524::1710932574::1::::<><>::
-Mushroom.obj::Mesh::6733435959131977401::1710932524::1710932576::1::::<><>::
-Plant_2.obj::Mesh::513068098873729603::1710932524::1710932576::1::::<><>::
-Plant_3.obj::Mesh::7553983055581456676::1710932524::1710932576::1::::<><>::
-Rail_Corner.obj::Mesh::3450382480700298120::1710932524::1710932576::1::::<><>::
-Rail_Incline.obj::Mesh::4112705328898730492::1710932524::1710932576::1::::<><>::
-Rail_Straight.obj::Mesh::8978036654116462096::1710932524::1710932576::1::::<><>::
-Rock1.obj::Mesh::5306194499570058272::1710932524::1710932576::1::::<><>::
-Rock2.obj::Mesh::1674252645297390365::1710932524::1710932576::1::::<><>::
-Tree_1.obj::Mesh::1970426408825240548::1710932524::1710932575::1::::<><>::
-Tree_2.obj::Mesh::4842027189363787498::1710932524::1710932575::1::::<><>::
-Tree_3.obj::Mesh::6465712001393281964::1710932524::1710932575::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Pixel Blocks/::1710932521
-::res://Assets/Cube World - Aug 2023/Pixel Blocks/Blends/::1710932603
-Block_Blank.blend::PackedScene::7303572790385096877::1710932524::1710932602::1::::<><>::
-Block_Square.blend::PackedScene::435874686772677387::1710932524::1710932602::1::::<><>::
-Bricks_Dark.blend::PackedScene::2748454884933291604::1710932524::1710932602::1::::<><>::
-Bricks_Grey.blend::PackedScene::6806426984780776466::1710932524::1710932603::1::::<><>::
-Bricks_Red.blend::PackedScene::3925683029237879476::1710932524::1710932603::1::::<><>::
-Bricks_Yellow.blend::PackedScene::4475769561784211173::1710932524::1710932588::1::::<><>::
-Coal.blend::PackedScene::3023322033559006449::1710932524::1710932588::1::::<><>::
-Diamond.blend::PackedScene::1994823411591540881::1710932524::1710932587::1::::<><>::
-Dirt.blend::PackedScene::6870701958691321769::1710932524::1710932587::1::::<><>::
-Exclamation.blend::PackedScene::2408109803496493349::1710932524::1710932588::1::::<><>::
-Grass.blend::PackedScene::1136480062078690878::1710932524::1710932589::1::::<><>::
-Ice.blend::PackedScene::7475719735121060196::1710932524::1710932589::1::::<><>::
-Leaves.blend::PackedScene::8676356816914183815::1710932524::1710932590::1::::<><>::
-QuestionMark.blend::PackedScene::326837085643608066::1710932524::1710932590::1::::<><>::
-Snow.blend::PackedScene::7813559543179227558::1710932524::1710932592::1::::<><>::
-Stone.blend::PackedScene::2843353179002680454::1710932524::1710932592::1::::<><>::
-Wood.blend::PackedScene::8540025798667392205::1710932524::1710932593::1::::<><>::
-WoodPlanks.blend::PackedScene::2653982772975671100::1710932524::1710932592::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Pixel Blocks/Blends/textures/::1710932728
-Blocks_PixelArt.png::CompressedTexture2D::8254694174066579036::1710932585::1710932728::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Pixel Blocks/FBX/::1710932627
-Block_Blank.fbx::PackedScene::2662844072111399129::1710932524::1710932591::1::::<><>::
-Block_Square.fbx::PackedScene::3511706027104627503::1710932524::1710932591::1::::<><>::
-Bricks_Dark.fbx::PackedScene::8073272383316955859::1710932524::1710932590::1::::<><>::
-Bricks_Grey.fbx::PackedScene::4133566537017705061::1710932524::1710932627::1::::<><>::
-Bricks_Red.fbx::PackedScene::7823795797527481987::1710932524::1710932627::1::::<><>::
-Bricks_Yellow.fbx::PackedScene::7389236285838252443::1710932524::1710932626::1::::<><>::
-Coal.fbx::PackedScene::4656208632642260992::1710932524::1710932626::1::::<><>::
-Diamond.fbx::PackedScene::5664173410401354612::1710932524::1710932626::1::::<><>::
-Dirt.fbx::PackedScene::6625955015151681046::1710932524::1710932625::1::::<><>::
-Exclamation.fbx::PackedScene::3389114568789914081::1710932524::1710932625::1::::<><>::
-Grass.fbx::PackedScene::4880784173313037013::1710932524::1710932624::1::::<><>::
-Ice.fbx::PackedScene::4792885109534426054::1710932524::1710932624::1::::<><>::
-Leaves.fbx::PackedScene::2814546492672634784::1710932524::1710932624::1::::<><>::
-QuestionMark.fbx::PackedScene::1513898449905946344::1710932524::1710932623::1::::<><>::
-Snow.fbx::PackedScene::636994590515528002::1710932524::1710932623::1::::<><>::
-Stone.fbx::PackedScene::6257650116393837453::1710932524::1710932622::1::::<><>::
-Wood.fbx::PackedScene::6418300107730132833::1710932524::1710932622::1::::<><>::
-WoodPlanks.fbx::PackedScene::5178834183537068533::1710932524::1710932622::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/::1710932808
-Block_Blank.gltf::PackedScene::38343568310530072::1710932524::1710932621::1::::<><>::uid://c0xafqt1kjnjr::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Block_Blank_Blocks_PixelArt.png
-Block_Blank_Blocks_PixelArt.png::CompressedTexture2D::6575052946569850719::1710932621::1710932729::1::::<><>::
-Block_Square.gltf::PackedScene::2405489136342176314::1710932524::1710932621::1::::<><>::uid://fg8qt8cd7qba::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Block_Square_Blocks_PixelArt.png
-Block_Square_Blocks_PixelArt.png::CompressedTexture2D::365363767196646802::1710932621::1710932729::1::::<><>::
-Bricks_Dark.gltf::PackedScene::1524484714239469561::1710932524::1710932620::1::::<><>::uid://cj02wwx4thxku::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Dark_Blocks_PixelArt.png
-Bricks_Dark_Blocks_PixelArt.png::CompressedTexture2D::5457830242638114700::1710932620::1710932729::1::::<><>::
-Bricks_Grey.gltf::PackedScene::4154375941558219049::1710932524::1710932620::1::::<><>::uid://cvumu7f0dc6o5::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Grey_Blocks_PixelArt.png
-Bricks_Grey_Blocks_PixelArt.png::CompressedTexture2D::6288860648268609430::1710932620::1710932729::1::::<><>::
-Bricks_Red.gltf::PackedScene::3251125082920508337::1710932524::1710932620::1::::<><>::uid://ddk3nag6lnfcu::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Red_Blocks_PixelArt.png
-Bricks_Red_Blocks_PixelArt.png::CompressedTexture2D::7392195661344763876::1710932619::1710932729::1::::<><>::
-Bricks_Yellow.gltf::PackedScene::9093302460793321920::1710932524::1710932636::1::::<><>::uid://dehxsxkroto8n::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Yellow_Blocks_PixelArt.png
-Bricks_Yellow_Blocks_PixelArt.png::CompressedTexture2D::7455897929310740415::1710932635::1710932729::1::::<><>::
-Coal.gltf::PackedScene::1744393929543546502::1710932524::1710932635::1::::<><>::uid://8mob0sd4jiyw::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Coal_Blocks_PixelArt.png
-Coal_Blocks_PixelArt.png::CompressedTexture2D::2341857537862078302::1710932635::1710932729::1::::<><>::
-Diamond.gltf::PackedScene::4354624078840752170::1710932524::1710932635::1::::<><>::uid://brt225lbpllmv::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Diamond_Blocks_PixelArt.png
-Diamond_Blocks_PixelArt.png::CompressedTexture2D::3620543370866192897::1710932635::1710932729::1::::<><>::
-Dirt.gltf::PackedScene::4722707117494949347::1710932524::1710932634::1::::<><>::uid://bmsxgxncsy1k::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Dirt_Blocks_PixelArt.png
-Dirt_Blocks_PixelArt.png::CompressedTexture2D::96095707081030382::1710932634::1710932729::1::::<><>::
-Exclamation.gltf::PackedScene::2030503953521852500::1710932524::1710932634::1::::<><>::uid://bvc5fsvr1yxuv::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Exclamation_Blocks_PixelArt.png
-Exclamation_Blocks_PixelArt.png::CompressedTexture2D::3866346573021731929::1710932634::1710932729::1::::<><>::
-Grass.gltf::PackedScene::3546667642228591927::1710932524::1710932634::1::::<><>::uid://crf8w85itqnxg::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Grass_Blocks_PixelArt.png
-Grass_Blocks_PixelArt.png::CompressedTexture2D::5978418326234458232::1710932633::1710932729::1::::<><>::
-Ice.gltf::PackedScene::3502121964172169568::1710932524::1710932633::1::::<><>::uid://oudgs3vooetb::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Ice_Blocks_PixelArt.png
-Ice_Blocks_PixelArt.png::CompressedTexture2D::1024125221403612039::1710932633::1710932729::1::::<><>::
-Leaves.gltf::PackedScene::7328323327892195505::1710932524::1710932633::1::::<><>::uid://d0y4qfpeuillc::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Leaves_Blocks_PixelArt.png
-Leaves_Blocks_PixelArt.png::CompressedTexture2D::8965317859617866084::1710932633::1710932729::1::::<><>::
-QuestionMark.gltf::PackedScene::9034031544284555890::1710932524::1710932632::1::::<><>::uid://eot5k0q8t4kx::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/QuestionMark_Blocks_PixelArt.png
-QuestionMark_Blocks_PixelArt.png::CompressedTexture2D::310864424414134471::1710932632::1710932729::1::::<><>::
-Snow.gltf::PackedScene::8459183824692619472::1710932524::1710932632::1::::<><>::uid://bct18jt61kphq::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Stone_Blocks_PixelArt.png
-Snow_Blocks_PixelArt.png::CompressedTexture2D::8793739551386969194::1710932632::1710932729::1::::<><>::
-Stone.gltf::PackedScene::7048825965489198313::1710932524::1710932632::1::::<><>::uid://b0p0d4or1q1hv::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Wood_Blocks_PixelArt.png
-Stone_Blocks_PixelArt.png::CompressedTexture2D::2567659624812179914::1710932631::1710932729::1::::<><>::
-Wood.gltf::PackedScene::134856079829517918::1710932524::1710932631::1::::<><>::uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png
-WoodPlanks.gltf::PackedScene::134856079829517918::1710932524::1710932808::1::::<><>::uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png
-WoodPlanks_Blocks_PixelArt.png::CompressedTexture2D::1658642929547678723::1710932631::1710932729::1::::<><>::
-Wood_Blocks_PixelArt.png::CompressedTexture2D::4173632268767905707::1710932631::1710932729::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Pixel Blocks/OBJ/::1710932577
-Block_Blank.obj::Mesh::3778848839687675064::1710932524::1710932576::1::::<><>::
-Block_Square.obj::Mesh::8682693865032286198::1710932524::1710932576::1::::<><>::
-Bricks_Dark.obj::Mesh::467761081116165575::1710932524::1710932577::1::::<><>::
-Bricks_Grey.obj::Mesh::2625851959131798360::1710932524::1710932577::1::::<><>::
-Bricks_Red.obj::Mesh::3265240406894833360::1710932524::1710932577::1::::<><>::
-Bricks_Yellow.obj::Mesh::2119520938557118189::1710932524::1710932577::1::::<><>::
-Coal.obj::Mesh::1452792843232273521::1710932524::1710932577::1::::<><>::
-Diamond.obj::Mesh::8272996002211151399::1710932524::1710932577::1::::<><>::
-Dirt.obj::Mesh::647707631051266373::1710932524::1710932573::1::::<><>::
-Exclamation.obj::Mesh::1658256996994607482::1710932524::1710932573::1::::<><>::
-Grass.obj::Mesh::4257712954335123459::1710932524::1710932573::1::::<><>::
-Ice.obj::Mesh::6568197554095339791::1710932524::1710932573::1::::<><>::
-Leaves.obj::Mesh::2315136961476848828::1710932524::1710932573::1::::<><>::
-QuestionMark.obj::Mesh::2290085997079593406::1710932524::1710932572::1::::<><>::
-Snow.obj::Mesh::4963812740223456480::1710932524::1710932573::1::::<><>::
-Stone.obj::Mesh::5184362509187761090::1710932524::1710932573::1::::<><>::
-Wood.obj::Mesh::5751667960380584571::1710932524::1710932573::1::::<><>::
-WoodPlanks.obj::Mesh::2049350394589237434::1710932524::1710932574::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Tools/::1710932521
-::res://Assets/Cube World - Aug 2023/Tools/Blends/::1710932630
-Axe_Diamond.blend::PackedScene::3267745443836537241::1710932524::1710932630::1::::<><>::
-Axe_Gold.blend::PackedScene::2943195414541113141::1710932524::1710932630::1::::<><>::
-Axe_Stone.blend::PackedScene::6718901195705230798::1710932524::1710932630::1::::<><>::
-Axe_Wood.blend::PackedScene::7743436614117648018::1710932524::1710932629::1::::<><>::
-Pickaxe_Diamond.blend::PackedScene::3058134978161392798::1710932524::1710932629::1::::<><>::
-Pickaxe_Gold.blend::PackedScene::7582708375552012757::1710932524::1710932628::1::::<><>::
-Pickaxe_Stone.blend::PackedScene::6879866672383534578::1710932524::1710932628::1::::<><>::
-Pickaxe_Wood.blend::PackedScene::6872105149013195094::1710932524::1710932628::1::::<><>::
-Shovel_Diamond.blend::PackedScene::7536184382599811531::1710932524::1710932611::1::::<><>::
-Shovel_Gold.blend::PackedScene::6320447630684948110::1710932524::1710932611::1::::<><>::
-Shovel_Stone.blend::PackedScene::6073672267895235184::1710932524::1710932610::1::::<><>::
-Shovel_Wood.blend::PackedScene::1376427218056880174::1710932524::1710932610::1::::<><>::
-Sword_Diamond.blend::PackedScene::4850753668005294121::1710932524::1710932610::1::::<><>::
-Sword_Gold.blend::PackedScene::5462572565629920797::1710932524::1710932609::1::::<><>::
-Sword_Stone.blend::PackedScene::8469394276341024187::1710932524::1710932609::1::::<><>::
-Sword_Wood.blend::PackedScene::8511295925684266091::1710932524::1710932608::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Tools/Blends/textures/::1710932728
-Atlas.png::CompressedTexture2D::1632274378920635027::1710932608::1710932728::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Tools/FBX/::1710932619
-Axe_Diamond.fbx::PackedScene::1947607310361516443::1710932524::1710932608::1::::<><>::
-Axe_Gold.fbx::PackedScene::865332408567453901::1710932524::1710932608::1::::<><>::
-Axe_Stone.fbx::PackedScene::5903719680998074256::1710932524::1710932607::1::::<><>::
-Axe_Wood.fbx::PackedScene::2248846227332178977::1710932524::1710932607::1::::<><>::
-Pickaxe_Diamond.fbx::PackedScene::7112404509139587498::1710932524::1710932606::1::::<><>::
-Pickaxe_Gold.fbx::PackedScene::2898022474098907626::1710932524::1710932606::1::::<><>::
-Pickaxe_Stone.fbx::PackedScene::3702252944963807590::1710932524::1710932606::1::::<><>::
-Pickaxe_Wood.fbx::PackedScene::2263241872219207649::1710932524::1710932605::1::::<><>::
-Shovel_Diamond.fbx::PackedScene::1269358739648544150::1710932524::1710932605::1::::<><>::
-Shovel_Gold.fbx::PackedScene::3402103195859339960::1710932524::1710932604::1::::<><>::
-Shovel_Stone.fbx::PackedScene::8285886896396380369::1710932524::1710932604::1::::<><>::
-Shovel_Wood.fbx::PackedScene::4606333347854510983::1710932524::1710932604::1::::<><>::
-Sword_Diamond.fbx::PackedScene::5507630846697714425::1710932524::1710932619::1::::<><>::
-Sword_Gold.fbx::PackedScene::873955551274301679::1710932524::1710932619::1::::<><>::
-Sword_Stone.fbx::PackedScene::7845291108331482418::1710932524::1710932618::1::::<><>::
-Sword_Wood.fbx::PackedScene::6745186533571742784::1710932524::1710932618::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Tools/glTF/::1710932730
-Axe_Diamond.gltf::PackedScene::646498481939809066::1710932524::1710932618::1::::<><>::uid://b5bwhhe6hsesb::::res://Assets/Cube World - Aug 2023/Tools/glTF/Axe_Diamond_Atlas.png
-Axe_Diamond_Atlas.png::CompressedTexture2D::4495499020247562709::1710932617::1710932729::1::::<><>::
-Axe_Gold.gltf::PackedScene::4536929257902605337::1710932524::1710932617::1::::<><>::uid://bhkifm7lpk8uw::::res://Assets/Cube World - Aug 2023/Tools/glTF/Axe_Gold_Atlas.png
-Axe_Gold_Atlas.png::CompressedTexture2D::2898881711845791330::1710932617::1710932729::1::::<><>::
-Axe_Stone.gltf::PackedScene::4384432011265432417::1710932524::1710932617::1::::<><>::uid://cqg0stc6wagl5::::res://Assets/Cube World - Aug 2023/Tools/glTF/Axe_Stone_Atlas.png
-Axe_Stone_Atlas.png::CompressedTexture2D::5909800203699695084::1710932617::1710932730::1::::<><>::
-Axe_Wood.gltf::PackedScene::1889796581458586618::1710932524::1710932616::1::::<><>::uid://bekwrx4s5agn6::::res://Assets/Cube World - Aug 2023/Tools/glTF/Axe_Wood_Atlas.png
-Axe_Wood_Atlas.png::CompressedTexture2D::2689187221817390289::1710932616::1710932730::1::::<><>::
-Pickaxe_Diamond.gltf::PackedScene::8215258217332431654::1710932524::1710932616::1::::<><>::uid://dumgmbte8k2u7::::res://Assets/Cube World - Aug 2023/Tools/glTF/Pickaxe_Diamond_Atlas.png
-Pickaxe_Diamond_Atlas.png::CompressedTexture2D::8588197270473025492::1710932616::1710932730::1::::<><>::
-Pickaxe_Gold.gltf::PackedScene::2690085514514863015::1710932524::1710932616::1::::<><>::uid://b2k2gu66kb8pm::::res://Assets/Cube World - Aug 2023/Tools/glTF/Pickaxe_Gold_Atlas.png
-Pickaxe_Gold_Atlas.png::CompressedTexture2D::4303814412806576342::1710932615::1710932730::1::::<><>::
-Pickaxe_Stone.gltf::PackedScene::2931543731196559647::1710932524::1710932615::1::::<><>::uid://dtx24w41g3d8b::::res://Assets/Cube World - Aug 2023/Tools/glTF/Pickaxe_Stone_Atlas.png
-Pickaxe_Stone_Atlas.png::CompressedTexture2D::8542023116876705199::1710932615::1710932730::1::::<><>::
-Pickaxe_Wood.gltf::PackedScene::2623902373318364056::1710932524::1710932615::1::::<><>::uid://bjuf4e8fgnrlb::::res://Assets/Cube World - Aug 2023/Tools/glTF/Pickaxe_Wood_Atlas.png
-Pickaxe_Wood_Atlas.png::CompressedTexture2D::3059763465811334755::1710932615::1710932730::1::::<><>::
-Shovel_Diamond.gltf::PackedScene::2882805494474176887::1710932524::1710932614::1::::<><>::uid://bi7i4rla08m5a::::res://Assets/Cube World - Aug 2023/Tools/glTF/Shovel_Gold_Atlas.png
-Shovel_Diamond_Atlas.png::CompressedTexture2D::507216464160563286::1710932614::1710932730::1::::<><>::
-Shovel_Gold.gltf::PackedScene::4151982313820935430::1710932524::1710932614::1::::<><>::uid://blejsstklqt6p::::res://Assets/Cube World - Aug 2023/Tools/glTF/Shovel_Stone_Atlas.png
-Shovel_Gold_Atlas.png::CompressedTexture2D::3014529954817168004::1710932614::1710932730::1::::<><>::
-Shovel_Stone.gltf::PackedScene::8152104121362177415::1710932524::1710932614::1::::<><>::uid://p6h4rncjond7::::res://Assets/Cube World - Aug 2023/Tools/glTF/Shovel_Wood_Atlas.png
-Shovel_Stone_Atlas.png::CompressedTexture2D::3167335047194175017::1710932613::1710932729::1::::<><>::
-Shovel_Wood.gltf::PackedScene::223340067914374919::1710932524::1710932613::1::::<><>::uid://eepktqep05os::::res://Assets/Cube World - Aug 2023/Tools/glTF/Sword_Diamond_Atlas.png
-Shovel_Wood_Atlas.png::CompressedTexture2D::1117306085001819194::1710932613::1710932729::1::::<><>::
-Sword_Diamond.gltf::PackedScene::695148628622033907::1710932524::1710932613::1::::<><>::uid://cudyfrbp15pqr::::res://Assets/Cube World - Aug 2023/Tools/glTF/Sword_Gold_Atlas.png
-Sword_Diamond_Atlas.png::CompressedTexture2D::289942521262242462::1710932613::1710932729::1::::<><>::
-Sword_Gold.gltf::PackedScene::3622740929065368655::1710932524::1710932612::1::::<><>::uid://dsiap6006mc5l::::res://Assets/Cube World - Aug 2023/Tools/glTF/Sword_Stone_Atlas.png
-Sword_Gold_Atlas.png::CompressedTexture2D::6184278405364178717::1710932612::1710932729::1::::<><>::
-Sword_Stone.gltf::PackedScene::7889426834654726082::1710932524::1710932612::1::::<><>::uid://ceo1xqukqauqm::::res://Assets/Cube World - Aug 2023/Tools/glTF/Sword_Wood_Atlas.png
-Sword_Stone_Atlas.png::CompressedTexture2D::8439204713526689599::1710932612::1710932729::1::::<><>::
-Sword_Wood.gltf::PackedScene::7889426834654726082::1710932524::1710932612::0::::<><>::
-Sword_Wood_Atlas.png::CompressedTexture2D::5084118617312359100::1710932611::1710932729::1::::<><>::
-::res://Assets/Cube World - Aug 2023/Tools/OBJ/::1710932580
-Axe_Diamond.obj::Mesh::48323775975094970::1710932524::1710932579::1::::<><>::
-Axe_Gold.obj::Mesh::7542477427575718276::1710932524::1710932579::1::::<><>::
-Axe_Stone.obj::Mesh::4201973719926681281::1710932524::1710932579::1::::<><>::
-Axe_Wood.obj::Mesh::1552344521966852884::1710932524::1710932580::1::::<><>::
-Pickaxe_Diamond.obj::Mesh::7622059017393607249::1710932524::1710932580::1::::<><>::
-Pickaxe_Gold.obj::Mesh::8786506309751900786::1710932524::1710932580::1::::<><>::
-Pickaxe_Stone.obj::Mesh::8372173125055434548::1710932524::1710932580::1::::<><>::
-Pickaxe_Wood.obj::Mesh::7859367370135096396::1710932524::1710932579::1::::<><>::
-Shovel_Diamond.obj::Mesh::540398267400032839::1710932524::1710932579::1::::<><>::
-Shovel_Gold.obj::Mesh::1293141318256643459::1710932524::1710932579::1::::<><>::
-Shovel_Stone.obj::Mesh::3194131627655331882::1710932524::1710932578::1::::<><>::
-Shovel_Wood.obj::Mesh::9175924045344747149::1710932524::1710932578::1::::<><>::
-Sword_Diamond.obj::Mesh::132945208488886227::1710932525::1710932578::1::::<><>::
-Sword_Gold.obj::Mesh::8837500707242730006::1710932525::1710932578::1::::<><>::
-Sword_Stone.obj::Mesh::1139397913593342494::1710932525::1710932578::1::::<><>::
-Sword_Wood.obj::Mesh::1203192171162067023::1710932525::1710932578::1::::<><>::
-::res://Controllers/::1710945459
-game_controller.gd::GDScript::-1::1710945258::0::1::::<>Node<>::
-main_menu.tscn::PackedScene::6532471385347643433::1710945459::0::1::::<><>::
-multiplayer_controller.gd::GDScript::-1::1710945258::0::1::::<>Node<>::
-::res://Materials/::1710932430
-dirt.tres::StandardMaterial3D::3575003139670445305::1710932430::0::1::::<><>::
-::res://Resources/::1710945258
-blocks.tres::MeshLibrary::9172164952813432024::1710945258::0::1::::<><>::uid://cvumu7f0dc6o5::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Grey_Blocks_PixelArt.png<>uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png<>uid://bmsxgxncsy1k::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Dirt_Blocks_PixelArt.png<>uid://crf8w85itqnxg::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Grass_Blocks_PixelArt.png<>uid://d0y4qfpeuillc::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Leaves_Blocks_PixelArt.png<>uid://bct18jt61kphq::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Stone_Blocks_PixelArt.png
-::res://Scenes/::1710945465
-blocks.tscn::PackedScene::6691148610470926331::1710945258::0::1::::<><>::uid://cvumu7f0dc6o5::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Grey_Blocks_PixelArt.png<>uid://b0p0d4or1q1hv::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Wood_Blocks_PixelArt.png<>uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png<>uid://bmsxgxncsy1k::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Dirt_Blocks_PixelArt.png<>uid://crf8w85itqnxg::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Grass_Blocks_PixelArt.png<>uid://d0y4qfpeuillc::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Leaves_Blocks_PixelArt.png<>uid://bct18jt61kphq::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Stone_Blocks_PixelArt.png
-player.tscn::PackedScene::3388748986085049585::1710944681::0::1::::<><>::res://Scripts/player.gd
-world.tscn::PackedScene::8815204910383729255::1710944680::0::1::::<><>::uid://bojsg3aiq2bif::::res://Scenes/player.tscn<>uid://d3xchmrjyc4hg::::res://Resources/blocks.tres<>res://Scripts/GridMap.gd
-::res://Scenes/UI/::1710945465
-::res://Scripts/::1710935003
-GridMap.gd::GDScript::-1::1710934097::0::1::::<>GridMap<>::
-player.gd::GDScript::-1::1710935002::0::1::::<>CharacterBody3D<>::
+::res://::1710951880
+icon.svg::CompressedTexture2D::550359753799157537::1710951853::1710951853::1::::<><>::
+::res://Assets/::1710951852
+::res://Assets/Cube World - Aug 2023/::1710951853
+Atlas.png::CompressedTexture2D::6522297253517236981::1710951853::1710951853::1::::<><>::
+Blocks_PixelArt.png::CompressedTexture2D::4315403329352264055::1710951853::1710951853::1::::<><>::
+Preview.jpg::CompressedTexture2D::3297794994862491096::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Animals/::1710951853
+::res://Assets/Cube World - Aug 2023/Animals/Blends/::1710951853
+::res://Assets/Cube World - Aug 2023/Animals/Blends/textures/::1710951853
+Atlas.png::CompressedTexture2D::8028289139997803006::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Animals/FBX/::1710951853
+Cat.fbx::PackedScene::6902944428502353415::1710951853::1710951853::1::::<><>::
+Chick.fbx::PackedScene::2555027864079363815::1710951853::1710951853::1::::<><>::
+Chicken.fbx::PackedScene::648233089119589855::1710951853::1710951853::1::::<><>::
+Dog.fbx::PackedScene::8007023303216640075::1710951853::1710951853::1::::<><>::
+Horse.fbx::PackedScene::8726776710436222468::1710951853::1710951853::1::::<><>::
+Pig.fbx::PackedScene::1166606054872749208::1710951853::1710951853::1::::<><>::
+Raccoon.fbx::PackedScene::2691498894774911337::1710951853::1710951853::1::::<><>::
+Sheep.fbx::PackedScene::5102141578400635346::1710951853::1710951853::1::::<><>::
+Wolf.fbx::PackedScene::7900941327755950103::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Animals/glTF/::1710951853
+Cat.gltf::PackedScene::3829003813198413672::1710951853::1710951853::1::::<><>::
+Cat_Atlas.png::CompressedTexture2D::6121568913721190226::1710951853::1710951853::1::::<><>::
+Chick.gltf::PackedScene::7351579460140772150::1710951853::1710951853::1::::<><>::
+Chicken.gltf::PackedScene::2114605951214696435::1710951853::1710951853::1::::<><>::
+Chicken_Atlas.png::CompressedTexture2D::6426226225226131769::1710951853::1710951853::1::::<><>::
+Chick_Atlas.png::CompressedTexture2D::6079470781785251164::1710951853::1710951853::1::::<><>::
+Dog.gltf::PackedScene::5824511763690527420::1710951853::1710951853::1::::<><>::
+Dog_Atlas.png::CompressedTexture2D::4091123899479908327::1710951853::1710951853::1::::<><>::
+Horse.gltf::PackedScene::2629993761414189345::1710951853::1710951853::1::::<><>::
+Horse_Atlas.png::CompressedTexture2D::8743527994528655377::1710951853::1710951853::1::::<><>::
+Pig.gltf::PackedScene::6593404607792820718::1710951853::1710951853::1::::<><>::
+Pig_Atlas.png::CompressedTexture2D::7330200756038701159::1710951853::1710951853::1::::<><>::
+Raccoon.gltf::PackedScene::1588574301119613238::1710951853::1710951853::1::::<><>::
+Raccoon_Atlas.png::CompressedTexture2D::2167060761970904604::1710951853::1710951853::1::::<><>::
+Sheep.gltf::PackedScene::5068038608453264080::1710951853::1710951853::1::::<><>::
+Sheep_Atlas.png::CompressedTexture2D::3956586451409737312::1710951853::1710951853::1::::<><>::
+Wolf.gltf::PackedScene::5433097273576719::1710951853::1710951853::1::::<><>::
+Wolf_Atlas.png::CompressedTexture2D::646908855453699949::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Animals/OBJ/::1710951853
+Chick.obj::Mesh::7491056379379940129::1710951853::1710951853::1::::<><>::
+Chicken.obj::Mesh::6810897875510428243::1710951853::1710951853::1::::<><>::
+Dog.obj::Mesh::1204057571466538636::1710951853::1710951853::1::::<><>::
+Horse.obj::Mesh::8229170390833839346::1710951853::1710951853::1::::<><>::
+Pig.obj::Mesh::2765865661438970325::1710951853::1710951853::1::::<><>::
+Raccoon.obj::Mesh::8929576998158647665::1710951853::1710951853::1::::<><>::
+Sheep.obj::Mesh::1370726832381664233::1710951853::1710951853::1::::<><>::
+Wolf.obj::Mesh::7609266990837698619::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Blocks/::1710951853
+::res://Assets/Cube World - Aug 2023/Blocks/Blends/::1710951853
+::res://Assets/Cube World - Aug 2023/Blocks/Blends/textures/::1710951853
+Atlas.png::CompressedTexture2D::879645050434229437::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Blocks/FBX/::1710951853
+Block_Blank.fbx::PackedScene::1880600152780295174::1710951853::1710951853::1::::<><>::
+Block_Brick.fbx::PackedScene::6614150950407071043::1710951853::1710951853::1::::<><>::
+Block_Cheese.fbx::PackedScene::7480765567654113596::1710951853::1710951853::1::::<><>::
+Block_Coal.fbx::PackedScene::2857395630702259390::1710951853::1710951853::1::::<><>::
+Block_Crate.fbx::PackedScene::8730179768135290439::1710951853::1710951853::1::::<><>::
+Block_Crystal.fbx::PackedScene::3496707020802997973::1710951853::1710951853::1::::<><>::
+Block_Diamond.fbx::PackedScene::6717958733159041564::1710951853::1710951853::1::::<><>::
+Block_Dirt.fbx::PackedScene::6388041766579401924::1710951853::1710951853::1::::<><>::
+Block_Grass.fbx::PackedScene::5681224202074502994::1710951853::1710951853::1::::<><>::
+Block_GreyBricks.fbx::PackedScene::8694192007538699838::1710951853::1710951853::1::::<><>::
+Block_Ice.fbx::PackedScene::753841430898014497::1710951853::1710951853::1::::<><>::
+Block_Metal.fbx::PackedScene::2327362685865046640::1710951853::1710951853::1::::<><>::
+Block_Snow.fbx::PackedScene::2880764550258191350::1710951853::1710951853::1::::<><>::
+Block_Stone.fbx::PackedScene::8816404758232334430::1710951853::1710951853::1::::<><>::
+Block_WoodPlanks.fbx::PackedScene::4729964757467149451::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Blocks/glTF/::1710951853
+Block_Blank.gltf::PackedScene::6897984594849966024::1710951853::1710951853::1::::<><>::
+Block_Blank_Atlas.png::CompressedTexture2D::4973171436245139993::1710951853::1710951853::1::::<><>::
+Block_Brick.gltf::PackedScene::4278999102636386739::1710951853::1710951853::1::::<><>::
+Block_Brick_Atlas.png::CompressedTexture2D::4287076920943701411::1710951853::1710951853::1::::<><>::
+Block_Cheese.gltf::PackedScene::5354419757014099626::1710951853::1710951853::1::::<><>::
+Block_Cheese_Atlas.png::CompressedTexture2D::1348178711030042555::1710951853::1710951853::1::::<><>::
+Block_Coal.gltf::PackedScene::3835845175159745612::1710951853::1710951853::1::::<><>::
+Block_Coal_Atlas.png::CompressedTexture2D::5802907054679053623::1710951853::1710951853::1::::<><>::
+Block_Crate.gltf::PackedScene::6104659353504974956::1710951853::1710951853::1::::<><>::
+Block_Crate_Atlas.png::CompressedTexture2D::7145926264182589101::1710951853::1710951853::1::::<><>::
+Block_Crystal.gltf::PackedScene::4292197605833826988::1710951853::1710951853::1::::<><>::
+Block_Crystal_Atlas.png::CompressedTexture2D::3736926529732980317::1710951853::1710951853::1::::<><>::
+Block_Diamond.gltf::PackedScene::8672827174426069796::1710951853::1710951853::1::::<><>::
+Block_Diamond_Atlas.png::CompressedTexture2D::2567579299138489892::1710951853::1710951853::1::::<><>::
+Block_Dirt.gltf::PackedScene::1662990540736053358::1710951853::1710951853::1::::<><>::
+Block_Dirt_Atlas.png::CompressedTexture2D::208509369751953850::1710951853::1710951853::1::::<><>::
+Block_Grass.gltf::PackedScene::5249617827276102443::1710951853::1710951853::1::::<><>::
+Block_Grass_Atlas.png::CompressedTexture2D::6788211816127465300::1710951853::1710951853::1::::<><>::
+Block_GreyBricks.gltf::PackedScene::5895690268149322632::1710951853::1710951853::1::::<><>::
+Block_GreyBricks_Atlas.png::CompressedTexture2D::1243085538265544864::1710951853::1710951853::1::::<><>::
+Block_Ice.gltf::PackedScene::2061843645327236702::1710951853::1710951853::1::::<><>::
+Block_Ice_Atlas.png::CompressedTexture2D::2949650969013037066::1710951853::1710951853::1::::<><>::
+Block_Metal.gltf::PackedScene::2459524857737361754::1710951853::1710951853::1::::<><>::
+Block_Metal_Atlas.png::CompressedTexture2D::7586701835903851190::1710951853::1710951853::1::::<><>::
+Block_Snow.gltf::PackedScene::8787892842710543722::1710951853::1710951853::1::::<><>::
+Block_Snow_Atlas.png::CompressedTexture2D::9101777322360258836::1710951853::1710951853::1::::<><>::
+Block_Stone.gltf::PackedScene::853588748063480049::1710951853::1710951853::1::::<><>::
+Block_Stone_Atlas.png::CompressedTexture2D::3273787815460550734::1710951853::1710951853::1::::<><>::
+Block_WoodPlanks.gltf::PackedScene::8195726219759210273::1710951853::1710951853::1::::<><>::
+Block_WoodPlanks_Atlas.png::CompressedTexture2D::6281151036250682836::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Blocks/OBJ/::1710951853
+Block_Blank.obj::Mesh::6826584559385658923::1710951853::1710951853::1::::<><>::
+Block_Brick.obj::Mesh::7613696009771187592::1710951853::1710951853::1::::<><>::
+Block_Cheese.obj::Mesh::2991191941661276389::1710951853::1710951853::1::::<><>::
+Block_Coal.obj::Mesh::952926858166166493::1710951853::1710951853::1::::<><>::
+Block_Crate.obj::Mesh::6571424165717292671::1710951853::1710951853::1::::<><>::
+Block_Crystal.obj::Mesh::1130610877181643804::1710951853::1710951853::1::::<><>::
+Block_Diamond.obj::Mesh::6241073150898653872::1710951853::1710951853::1::::<><>::
+Block_Dirt.obj::Mesh::1970523985991004208::1710951853::1710951853::1::::<><>::
+Block_Grass.obj::Mesh::2240128097809784345::1710951853::1710951853::1::::<><>::
+Block_GreyBricks.obj::Mesh::989167125009083333::1710951853::1710951853::1::::<><>::
+Block_Ice.obj::Mesh::914833960662967924::1710951853::1710951853::1::::<><>::
+Block_Metal.obj::Mesh::931805493333825367::1710951853::1710951853::1::::<><>::
+Block_Snow.obj::Mesh::736390886722327731::1710951853::1710951853::1::::<><>::
+Block_Stone.obj::Mesh::2235949783118162742::1710951853::1710951853::1::::<><>::
+Block_WoodPlanks.obj::Mesh::5301827589743305383::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Characters/::1710951853
+::res://Assets/Cube World - Aug 2023/Characters/Blends/::1710951853
+::res://Assets/Cube World - Aug 2023/Characters/Blends/textures/::1710951853
+Atlas.png::CompressedTexture2D::6596509897973116564::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Characters/FBX/::1710951853
+Character_Female_1.fbx::PackedScene::1515191826696227156::1710951853::1710951853::1::::<><>::
+Character_Female_2.fbx::PackedScene::2328543542097350786::1710951853::1710951853::1::::<><>::
+Character_Male_1.fbx::PackedScene::4371757284820422550::1710951853::1710951853::1::::<><>::
+Character_Male_2.fbx::PackedScene::2412702503854901832::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Characters/glTF/::1710951853
+Character_Female_1.gltf::PackedScene::3405138573886880687::1710951853::1710951853::1::::<><>::
+Character_Female_1_Atlas.png::CompressedTexture2D::5750933250753775066::1710951853::1710951853::1::::<><>::
+Character_Female_2.gltf::PackedScene::1798457428350015527::1710951853::1710951853::1::::<><>::
+Character_Female_2_Atlas.png::CompressedTexture2D::1255744020127970774::1710951853::1710951853::1::::<><>::
+Character_Male_1.gltf::PackedScene::3743922547630716784::1710951853::1710951853::1::::<><>::
+Character_Male_1_Atlas.png::CompressedTexture2D::2957279928758750261::1710951853::1710951853::1::::<><>::
+Character_Male_2.gltf::PackedScene::2430125841503271457::1710951853::1710951853::1::::<><>::
+Character_Male_2_Atlas.png::CompressedTexture2D::3006278440617045008::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Characters/OBJ/::1710951853
+Character_Female_1.obj::Mesh::1100954375501400368::1710951853::1710951853::1::::<><>::
+Character_Female_2.obj::Mesh::3662129670559508518::1710951853::1710951853::1::::<><>::
+Character_Male_1.obj::Mesh::3523474126237598101::1710951853::1710951853::1::::<><>::
+Character_Male_2.obj::Mesh::3335631730266573003::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Enemies/::1710951853
+::res://Assets/Cube World - Aug 2023/Enemies/Blends/::1710951853
+::res://Assets/Cube World - Aug 2023/Enemies/Blends/textures/::1710951853
+Atlas.png::CompressedTexture2D::5680973783881641044::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Enemies/FBX/::1710951853
+Demon.fbx::PackedScene::1996185836841378199::1710951853::1710951853::1::::<><>::
+Giant.fbx::PackedScene::2642398601047022013::1710951853::1710951853::1::::<><>::
+Goblin.fbx::PackedScene::1052472008055976::1710951853::1710951853::1::::<><>::
+Hedgehog.fbx::PackedScene::7778556474449902725::1710951853::1710951853::1::::<><>::
+Skeleton.fbx::PackedScene::885618732958458266::1710951853::1710951853::1::::<><>::
+Skeleton_Armor.fbx::PackedScene::4343876737173669843::1710951853::1710951853::1::::<><>::
+Wizard.fbx::PackedScene::6828333454036981698::1710951853::1710951853::1::::<><>::
+Yeti.fbx::PackedScene::2105573647898829334::1710951853::1710951853::1::::<><>::
+Zombie.fbx::PackedScene::2556100540282590036::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Enemies/glTF/::1710951853
+Demon.gltf::PackedScene::5471416218455597242::1710951853::1710951853::1::::<><>::
+Demon_Atlas.png::CompressedTexture2D::5772701411403570796::1710951853::1710951853::1::::<><>::
+Giant.gltf::PackedScene::7531809395747539527::1710951853::1710951853::1::::<><>::
+Giant_Atlas.png::CompressedTexture2D::9018283645845849649::1710951853::1710951853::1::::<><>::
+Goblin.gltf::PackedScene::1111621815606339144::1710951853::1710951853::1::::<><>::
+Goblin_Atlas.png::CompressedTexture2D::7882056911004096978::1710951853::1710951853::1::::<><>::
+Hedgehog.gltf::PackedScene::5793941769194321790::1710951853::1710951853::1::::<><>::
+Hedgehog_Atlas.png::CompressedTexture2D::5919246982343697149::1710951853::1710951853::1::::<><>::
+Skeleton.gltf::PackedScene::7645490970694685133::1710951853::1710951853::1::::<><>::
+Skeleton_Armor.gltf::PackedScene::7169365665169005529::1710951853::1710951853::1::::<><>::
+Skeleton_Armor_Atlas.png::CompressedTexture2D::176035036597253047::1710951853::1710951853::1::::<><>::
+Skeleton_Atlas.png::CompressedTexture2D::2986644283129115590::1710951853::1710951853::1::::<><>::
+Wizard.gltf::PackedScene::3837973990478169621::1710951853::1710951853::1::::<><>::
+Wizard_Atlas.png::CompressedTexture2D::8850803956420130907::1710951853::1710951853::1::::<><>::
+Yeti.gltf::PackedScene::5398303991035153377::1710951853::1710951853::1::::<><>::
+Yeti_Atlas.png::CompressedTexture2D::5955680244001559946::1710951853::1710951853::1::::<><>::
+Zombie.gltf::PackedScene::2683400117136281711::1710951853::1710951853::1::::<><>::
+Zombie_Atlas.png::CompressedTexture2D::1364740439796594313::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Enemies/OBJ/::1710951853
+Demon.obj::Mesh::6153709676499314430::1710951853::1710951853::1::::<><>::
+Giant.obj::Mesh::7719383384647799290::1710951853::1710951853::1::::<><>::
+Goblin.obj::Mesh::7601312165922886616::1710951853::1710951853::1::::<><>::
+Hedgehog.obj::Mesh::3187998798695456574::1710951853::1710951853::1::::<><>::
+Skeleton.obj::Mesh::5548250271910312744::1710951853::1710951853::1::::<><>::
+Skeleton_Armor.obj::Mesh::5229474918616334159::1710951853::1710951853::1::::<><>::
+Wizard.obj::Mesh::7811298937003887996::1710951853::1710951853::1::::<><>::
+Yeti.obj::Mesh::7302258679985771640::1710951853::1710951853::1::::<><>::
+Zombie.obj::Mesh::6885794000711999014::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Environment/::1710951853
+::res://Assets/Cube World - Aug 2023/Environment/Blends/::1710951853
+::res://Assets/Cube World - Aug 2023/Environment/Blends/textures/::1710951853
+Atlas.png::CompressedTexture2D::8892330207465396261::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Environment/FBX/::1710951853
+Bamboo.fbx::PackedScene::4098693576523906176::1710951853::1710951853::1::::<><>::
+Bamboo_Mid.fbx::PackedScene::5839069413468765796::1710951853::1710951853::1::::<><>::
+Bamboo_Small.fbx::PackedScene::7239616431888756294::1710951853::1710951853::1::::<><>::
+Bush.fbx::PackedScene::2952290912287155993::1710951853::1710951853::1::::<><>::
+Button_Pressed.fbx::PackedScene::2716198918294902989::1710951853::1710951853::1::::<><>::
+Cart.fbx::PackedScene::774456893334770081::1710951853::1710951853::1::::<><>::
+Chest_Closed.fbx::PackedScene::4996794764370118669::1710951853::1710951853::1::::<><>::
+Chest_Open.fbx::PackedScene::8015358466647918644::1710951853::1710951853::1::::<><>::
+Crystal_Big.fbx::PackedScene::358217695736092410::1710951853::1710951853::1::::<><>::
+Crystal_Small.fbx::PackedScene::8644446019846995652::1710951853::1710951853::1::::<><>::
+DeadTree_1.fbx::PackedScene::497019126127209986::1710951853::1710951853::1::::<><>::
+DeadTree_2.fbx::PackedScene::2099785962244704840::1710951853::1710951853::1::::<><>::
+DeadTree_3.fbx::PackedScene::5771949604674177421::1710951853::1710951853::1::::<><>::
+Door_Closed.fbx::PackedScene::6933082967818231167::1710951853::1710951853::1::::<><>::
+Fence_Center.fbx::PackedScene::3228337849200672452::1710951853::1710951853::1::::<><>::
+Fence_Corner.fbx::PackedScene::616493674985201733::1710951853::1710951853::1::::<><>::
+Fence_End.fbx::PackedScene::4092261875696505047::1710951853::1710951853::1::::<><>::
+Fence_T.fbx::PackedScene::1916442353957058106::1710951853::1710951853::1::::<><>::
+Flowers_1.fbx::PackedScene::8493554515180364125::1710951853::1710951853::1::::<><>::
+Flowers_2.fbx::PackedScene::7197905780851872033::1710951853::1710951853::1::::<><>::
+Grass_Big.fbx::PackedScene::7924825459669035136::1710951853::1710951853::1::::<><>::
+Grass_Small.fbx::PackedScene::9015852592922798967::1710951853::1710951853::1::::<><>::
+Key.fbx::PackedScene::1142030198190463681::1710951853::1710951853::1::::<><>::
+Lever_Left.fbx::PackedScene::2434094214690028846::1710951853::1710951853::1::::<><>::
+Lever_Right.fbx::PackedScene::4441871980648242403::1710951853::1710951853::1::::<><>::
+Mushroom.fbx::PackedScene::9203877850379525728::1710951853::1710951853::1::::<><>::
+Plant_2.fbx::PackedScene::1710806141794421711::1710951853::1710951853::1::::<><>::
+Plant_3.fbx::PackedScene::591456988670372425::1710951853::1710951853::1::::<><>::
+Rail_Corner.fbx::PackedScene::1176550860904171223::1710951853::1710951853::1::::<><>::
+Rail_Incline.fbx::PackedScene::7453718974259734937::1710951853::1710951853::1::::<><>::
+Rail_Straight.fbx::PackedScene::4687587616067259415::1710951853::1710951853::1::::<><>::
+Rock1.fbx::PackedScene::2036320562841084674::1710951853::1710951853::1::::<><>::
+Rock2.fbx::PackedScene::504665718572280313::1710951853::1710951853::1::::<><>::
+Tree_1.fbx::PackedScene::2447980774943597577::1710951853::1710951853::1::::<><>::
+Tree_2.fbx::PackedScene::8914865791437037528::1710951853::1710951853::1::::<><>::
+Tree_3.fbx::PackedScene::3611541109982844858::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Environment/glTF/::1710951853
+Bamboo.gltf::PackedScene::1997658406347528846::1710951853::1710951853::1::::<><>::
+Bamboo_Atlas.png::CompressedTexture2D::2695797443419310473::1710951853::1710951853::1::::<><>::
+Bamboo_Mid.gltf::PackedScene::7937775127834472222::1710951853::1710951853::1::::<><>::
+Bamboo_Mid_Atlas.png::CompressedTexture2D::2767359632749023449::1710951853::1710951853::1::::<><>::
+Bamboo_Small.gltf::PackedScene::6221674743505734743::1710951853::1710951853::1::::<><>::
+Bamboo_Small_Atlas.png::CompressedTexture2D::3252359901919375324::1710951853::1710951853::1::::<><>::
+Bush.gltf::PackedScene::7254666212678635674::1710951853::1710951853::1::::<><>::
+Bush_Atlas.png::CompressedTexture2D::1001369221191935255::1710951853::1710951853::1::::<><>::
+Button.gltf::PackedScene::4669026241527916515::1710951853::1710951853::1::::<><>::
+Button_Atlas.png::CompressedTexture2D::5967286964641173464::1710951853::1710951853::1::::<><>::
+Cart.gltf::PackedScene::7650882919984738194::1710951853::1710951853::1::::<><>::
+Cart_Atlas.png::CompressedTexture2D::8914496620938931149::1710951853::1710951853::1::::<><>::
+Chest_Closed.gltf::PackedScene::4345579574217410574::1710951853::1710951853::1::::<><>::
+Chest_Closed_Atlas.png::CompressedTexture2D::3938090125841555104::1710951853::1710951853::1::::<><>::
+Chest_Open.gltf::PackedScene::2238376244402458484::1710951853::1710951853::1::::<><>::
+Chest_Open_Atlas.png::CompressedTexture2D::8359297373825446399::1710951853::1710951853::1::::<><>::
+Crystal_Big.gltf::PackedScene::3105916129218434527::1710951853::1710951853::1::::<><>::
+Crystal_Big_Atlas.png::CompressedTexture2D::3041857959849841950::1710951853::1710951853::1::::<><>::
+Crystal_Small.gltf::PackedScene::5140766146023990432::1710951853::1710951853::1::::<><>::
+Crystal_Small_Atlas.png::CompressedTexture2D::3874667850321581960::1710951853::1710951853::1::::<><>::
+DeadTree_1.gltf::PackedScene::8005990955470582145::1710951853::1710951853::1::::<><>::
+DeadTree_1_Atlas.png::CompressedTexture2D::7532029223546435179::1710951853::1710951853::1::::<><>::
+DeadTree_2.gltf::PackedScene::5958923341170502342::1710951853::1710951853::1::::<><>::
+DeadTree_2_Atlas.png::CompressedTexture2D::162838792646543020::1710951853::1710951853::1::::<><>::
+DeadTree_3.gltf::PackedScene::8132823815916059520::1710951853::1710951853::1::::<><>::
+DeadTree_3_Atlas.png::CompressedTexture2D::1172833232607968099::1710951853::1710951853::1::::<><>::
+Door_Closed.gltf::PackedScene::6229353675197636525::1710951853::1710951853::1::::<><>::
+Door_Closed_Atlas.png::CompressedTexture2D::1613050562098598543::1710951853::1710951853::1::::<><>::
+Fence_Center.gltf::PackedScene::5515594760840976086::1710951853::1710951853::1::::<><>::
+Fence_Center_Atlas.png::CompressedTexture2D::5980809270823177732::1710951853::1710951853::1::::<><>::
+Fence_Corner.gltf::PackedScene::8235396790790652729::1710951853::1710951853::1::::<><>::
+Fence_Corner_Atlas.png::CompressedTexture2D::5209848181376950812::1710951853::1710951853::1::::<><>::
+Fence_End.gltf::PackedScene::2574043173446434400::1710951853::1710951853::1::::<><>::
+Fence_End_Atlas.png::CompressedTexture2D::6919068175314219927::1710951853::1710951853::1::::<><>::
+Fence_T.gltf::PackedScene::494357471982017378::1710951853::1710951853::1::::<><>::
+Fence_T_Atlas.png::CompressedTexture2D::2111947498226787254::1710951853::1710951853::1::::<><>::
+Flowers_1.gltf::PackedScene::7591121891200062151::1710951853::1710951853::1::::<><>::
+Flowers_1_Atlas.png::CompressedTexture2D::3003342629584679516::1710951853::1710951853::1::::<><>::
+Flowers_2.gltf::PackedScene::7080151036351292931::1710951853::1710951853::1::::<><>::
+Flowers_2_Atlas.png::CompressedTexture2D::7093457634950785148::1710951853::1710951853::1::::<><>::
+Grass_Big.gltf::PackedScene::8174598674860434138::1710951853::1710951853::1::::<><>::
+Grass_Big_Atlas.png::CompressedTexture2D::7055802388839540642::1710951853::1710951853::1::::<><>::
+Grass_Small.gltf::PackedScene::1679002621871149017::1710951853::1710951853::1::::<><>::
+Grass_Small_Atlas.png::CompressedTexture2D::1522864112261414535::1710951853::1710951853::1::::<><>::
+Key.gltf::PackedScene::5690285546100421528::1710951853::1710951853::1::::<><>::
+Key_Atlas.png::CompressedTexture2D::3656139332754288376::1710951853::1710951853::1::::<><>::
+Lever_Left.gltf::PackedScene::4663329411945079338::1710951853::1710951853::1::::<><>::
+Lever_Left_Atlas.png::CompressedTexture2D::5959192709282121084::1710951853::1710951853::1::::<><>::
+Lever_Right.gltf::PackedScene::5819311886824539898::1710951853::1710951853::1::::<><>::
+Lever_Right_Atlas.png::CompressedTexture2D::8647090625397327844::1710951853::1710951853::1::::<><>::
+Mushroom.gltf::PackedScene::1166062900296419095::1710951853::1710951853::1::::<><>::
+Mushroom_Atlas.png::CompressedTexture2D::5805855712423151464::1710951853::1710951853::1::::<><>::
+Plant_2.gltf::PackedScene::830152007867461725::1710951853::1710951853::1::::<><>::
+Plant_2_Atlas.png::CompressedTexture2D::9184700687164426409::1710951853::1710951853::1::::<><>::
+Plant_3.gltf::PackedScene::749729498614570043::1710951853::1710951853::1::::<><>::
+Plant_3_Atlas.png::CompressedTexture2D::6000964427046129801::1710951853::1710951853::1::::<><>::
+Rail_Corner.gltf::PackedScene::6772245536198847823::1710951853::1710951853::1::::<><>::
+Rail_Corner_Atlas.png::CompressedTexture2D::5388144401965659853::1710951853::1710951853::1::::<><>::
+Rail_Incline.gltf::PackedScene::666578524897814970::1710951853::1710951853::1::::<><>::
+Rail_Incline_Atlas.png::CompressedTexture2D::2838393896003162002::1710951853::1710951853::1::::<><>::
+Rail_Straight.gltf::PackedScene::1964192884125726582::1710951853::1710951853::1::::<><>::
+Rail_Straight_Atlas.png::CompressedTexture2D::7555963866691159274::1710951853::1710951853::1::::<><>::
+Rock1.gltf::PackedScene::2926247512674499857::1710951853::1710951853::1::::<><>::
+Rock1_Atlas.png::CompressedTexture2D::8251562613844571588::1710951853::1710951853::1::::<><>::
+Rock2.gltf::PackedScene::8307280275473635229::1710951853::1710951853::1::::<><>::
+Rock2_Atlas.png::CompressedTexture2D::3712718931778788757::1710951853::1710951853::1::::<><>::
+Tree_1.gltf::PackedScene::4852083223903610355::1710951853::1710951853::1::::<><>::
+Tree_1_Atlas.png::CompressedTexture2D::665519941632656857::1710951853::1710951853::1::::<><>::
+Tree_2.gltf::PackedScene::5275339021109377853::1710951853::1710951853::1::::<><>::
+Tree_2_Atlas.png::CompressedTexture2D::5866230318241913121::1710951853::1710951853::1::::<><>::
+Tree_3.gltf::PackedScene::2891156825311094827::1710951853::1710951853::1::::<><>::
+Tree_3_Atlas.png::CompressedTexture2D::309855650512854169::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Environment/OBJ/::1710951853
+Bamboo.obj::Mesh::3352784826877157716::1710951853::1710951853::1::::<><>::
+Bamboo_Mid.obj::Mesh::2896474889070428543::1710951853::1710951853::1::::<><>::
+Bamboo_Small.obj::Mesh::3307271232219300545::1710951853::1710951853::1::::<><>::
+Bush.obj::Mesh::5062951223577477355::1710951853::1710951853::1::::<><>::
+Button.obj::Mesh::6768635383713080046::1710951853::1710951853::1::::<><>::
+Button_Pressed.obj::Mesh::8826520641846463484::1710951853::1710951853::1::::<><>::
+Cart.obj::Mesh::6056194148625602043::1710951853::1710951853::1::::<><>::
+Cat.obj::Mesh::3346726820921069202::1710951853::1710951853::1::::<><>::
+Chest_Closed.obj::Mesh::2197373711050398714::1710951853::1710951853::1::::<><>::
+Chest_Open.obj::Mesh::777351153354670418::1710951853::1710951853::1::::<><>::
+Crystal_Big.obj::Mesh::7610446868333443229::1710951853::1710951853::1::::<><>::
+Crystal_Small.obj::Mesh::660815101802118574::1710951853::1710951853::1::::<><>::
+DeadTree_1.obj::Mesh::5602716888663231234::1710951853::1710951853::1::::<><>::
+DeadTree_2.obj::Mesh::2309068096179063785::1710951853::1710951853::1::::<><>::
+DeadTree_3.obj::Mesh::3069645876355149447::1710951853::1710951853::1::::<><>::
+Door_Closed.obj::Mesh::1622372281220390358::1710951853::1710951853::1::::<><>::
+Fence_Center.obj::Mesh::7406232976470652575::1710951853::1710951853::1::::<><>::
+Fence_Corner.obj::Mesh::579350992429370061::1710951853::1710951853::1::::<><>::
+Fence_End.obj::Mesh::6407752273419842858::1710951853::1710951853::1::::<><>::
+Fence_T.obj::Mesh::5905414871473716932::1710951853::1710951853::1::::<><>::
+Flowers_1.obj::Mesh::6442744477780006756::1710951853::1710951853::1::::<><>::
+Flowers_2.obj::Mesh::6146547760440450311::1710951853::1710951853::1::::<><>::
+Grass_Big.obj::Mesh::775419531293477455::1710951853::1710951853::1::::<><>::
+Grass_Small.obj::Mesh::2767863453327077070::1710951853::1710951853::1::::<><>::
+Key.obj::Mesh::5340688984881801241::1710951853::1710951853::1::::<><>::
+Lever_Left.obj::Mesh::6721923974377058321::1710951853::1710951853::1::::<><>::
+Lever_Right.obj::Mesh::7564550481451248946::1710951853::1710951853::1::::<><>::
+Mushroom.obj::Mesh::6733435959131977401::1710951853::1710951853::1::::<><>::
+Plant_2.obj::Mesh::513068098873729603::1710951853::1710951853::1::::<><>::
+Plant_3.obj::Mesh::7553983055581456676::1710951853::1710951853::1::::<><>::
+Rail_Corner.obj::Mesh::3450382480700298120::1710951853::1710951853::1::::<><>::
+Rail_Incline.obj::Mesh::4112705328898730492::1710951853::1710951853::1::::<><>::
+Rail_Straight.obj::Mesh::8978036654116462096::1710951853::1710951853::1::::<><>::
+Rock1.obj::Mesh::5306194499570058272::1710951853::1710951853::1::::<><>::
+Rock2.obj::Mesh::1674252645297390365::1710951853::1710951853::1::::<><>::
+Tree_1.obj::Mesh::1970426408825240548::1710951853::1710951853::1::::<><>::
+Tree_2.obj::Mesh::4842027189363787498::1710951853::1710951853::1::::<><>::
+Tree_3.obj::Mesh::6465712001393281964::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Pixel Blocks/::1710951853
+::res://Assets/Cube World - Aug 2023/Pixel Blocks/Blends/::1710951853
+::res://Assets/Cube World - Aug 2023/Pixel Blocks/Blends/textures/::1710951853
+Blocks_PixelArt.png::CompressedTexture2D::8254694174066579036::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Pixel Blocks/FBX/::1710951853
+Block_Blank.fbx::PackedScene::2662844072111399129::1710951853::1710951853::1::::<><>::
+Block_Square.fbx::PackedScene::3511706027104627503::1710951853::1710951853::1::::<><>::
+Bricks_Dark.fbx::PackedScene::8073272383316955859::1710951853::1710951853::1::::<><>::
+Bricks_Grey.fbx::PackedScene::4133566537017705061::1710951853::1710951853::1::::<><>::
+Bricks_Red.fbx::PackedScene::7823795797527481987::1710951853::1710951853::1::::<><>::
+Bricks_Yellow.fbx::PackedScene::7389236285838252443::1710951853::1710951853::1::::<><>::
+Coal.fbx::PackedScene::4656208632642260992::1710951853::1710951853::1::::<><>::
+Diamond.fbx::PackedScene::5664173410401354612::1710951853::1710951853::1::::<><>::
+Dirt.fbx::PackedScene::6625955015151681046::1710951853::1710951853::1::::<><>::
+Exclamation.fbx::PackedScene::3389114568789914081::1710951853::1710951853::1::::<><>::
+Grass.fbx::PackedScene::4880784173313037013::1710951853::1710951853::1::::<><>::
+Ice.fbx::PackedScene::4792885109534426054::1710951853::1710951853::1::::<><>::
+Leaves.fbx::PackedScene::2814546492672634784::1710951853::1710951853::1::::<><>::
+QuestionMark.fbx::PackedScene::1513898449905946344::1710951853::1710951853::1::::<><>::
+Snow.fbx::PackedScene::636994590515528002::1710951853::1710951853::1::::<><>::
+Stone.fbx::PackedScene::6257650116393837453::1710951853::1710951853::1::::<><>::
+Wood.fbx::PackedScene::6418300107730132833::1710951853::1710951853::1::::<><>::
+WoodPlanks.fbx::PackedScene::5178834183537068533::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/::1710951853
+Block_Blank.gltf::PackedScene::38343568310530072::1710951853::1710951853::1::::<><>::
+Block_Blank_Blocks_PixelArt.png::CompressedTexture2D::6575052946569850719::1710951853::1710951853::1::::<><>::
+Block_Square.gltf::PackedScene::2405489136342176314::1710951853::1710951853::1::::<><>::
+Block_Square_Blocks_PixelArt.png::CompressedTexture2D::365363767196646802::1710951853::1710951853::1::::<><>::
+Bricks_Dark.gltf::PackedScene::1524484714239469561::1710951853::1710951853::1::::<><>::
+Bricks_Dark_Blocks_PixelArt.png::CompressedTexture2D::5457830242638114700::1710951853::1710951853::1::::<><>::
+Bricks_Grey.gltf::PackedScene::4154375941558219049::1710951853::1710951853::1::::<><>::
+Bricks_Grey_Blocks_PixelArt.png::CompressedTexture2D::6288860648268609430::1710951853::1710951853::1::::<><>::
+Bricks_Red.gltf::PackedScene::3251125082920508337::1710951853::1710951853::1::::<><>::
+Bricks_Red_Blocks_PixelArt.png::CompressedTexture2D::7392195661344763876::1710951853::1710951853::1::::<><>::
+Bricks_Yellow.gltf::PackedScene::9093302460793321920::1710951853::1710951853::1::::<><>::
+Bricks_Yellow_Blocks_PixelArt.png::CompressedTexture2D::7455897929310740415::1710951853::1710951853::1::::<><>::
+Coal.gltf::PackedScene::1744393929543546502::1710951853::1710951853::1::::<><>::
+Coal_Blocks_PixelArt.png::CompressedTexture2D::2341857537862078302::1710951853::1710951853::1::::<><>::
+Diamond.gltf::PackedScene::4354624078840752170::1710951853::1710951853::1::::<><>::
+Diamond_Blocks_PixelArt.png::CompressedTexture2D::3620543370866192897::1710951853::1710951853::1::::<><>::
+Dirt.gltf::PackedScene::4722707117494949347::1710951853::1710951853::1::::<><>::
+Dirt_Blocks_PixelArt.png::CompressedTexture2D::96095707081030382::1710951853::1710951853::1::::<><>::
+Exclamation.gltf::PackedScene::2030503953521852500::1710951853::1710951853::1::::<><>::
+Exclamation_Blocks_PixelArt.png::CompressedTexture2D::3866346573021731929::1710951853::1710951853::1::::<><>::
+Grass.gltf::PackedScene::3546667642228591927::1710951853::1710951853::1::::<><>::
+Grass_Blocks_PixelArt.png::CompressedTexture2D::5978418326234458232::1710951853::1710951853::1::::<><>::
+Ice.gltf::PackedScene::3502121964172169568::1710951853::1710951853::1::::<><>::
+Ice_Blocks_PixelArt.png::CompressedTexture2D::1024125221403612039::1710951853::1710951853::1::::<><>::
+Leaves.gltf::PackedScene::7328323327892195505::1710951853::1710951853::1::::<><>::
+Leaves_Blocks_PixelArt.png::CompressedTexture2D::8965317859617866084::1710951853::1710951853::1::::<><>::
+QuestionMark.gltf::PackedScene::9034031544284555890::1710951853::1710951853::1::::<><>::
+QuestionMark_Blocks_PixelArt.png::CompressedTexture2D::310864424414134471::1710951853::1710951853::1::::<><>::
+Snow.gltf::PackedScene::1361133561642001208::1710951853::1710951853::1::::<><>::
+Snow_Blocks_PixelArt.png::CompressedTexture2D::8793739551386969194::1710951853::1710951853::1::::<><>::
+Stone.gltf::PackedScene::8459183824692619472::1710951853::1710951853::1::::<><>::
+Stone_Blocks_PixelArt.png::CompressedTexture2D::2567659624812179914::1710951853::1710951853::1::::<><>::
+Wood.gltf::PackedScene::7048825965489198313::1710951853::1710951853::1::::<><>::
+WoodPlanks.gltf::PackedScene::134856079829517918::1710951853::1710951853::1::::<><>::
+WoodPlanks_Blocks_PixelArt.png::CompressedTexture2D::1658642929547678723::1710951853::1710951853::1::::<><>::
+Wood_Blocks_PixelArt.png::CompressedTexture2D::4173632268767905707::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Pixel Blocks/OBJ/::1710951853
+Block_Blank.obj::Mesh::3778848839687675064::1710951853::1710951853::1::::<><>::
+Block_Square.obj::Mesh::8682693865032286198::1710951853::1710951853::1::::<><>::
+Bricks_Dark.obj::Mesh::467761081116165575::1710951853::1710951853::1::::<><>::
+Bricks_Grey.obj::Mesh::2625851959131798360::1710951853::1710951853::1::::<><>::
+Bricks_Red.obj::Mesh::3265240406894833360::1710951853::1710951853::1::::<><>::
+Bricks_Yellow.obj::Mesh::2119520938557118189::1710951853::1710951853::1::::<><>::
+Coal.obj::Mesh::1452792843232273521::1710951853::1710951853::1::::<><>::
+Diamond.obj::Mesh::8272996002211151399::1710951853::1710951853::1::::<><>::
+Dirt.obj::Mesh::647707631051266373::1710951853::1710951853::1::::<><>::
+Exclamation.obj::Mesh::1658256996994607482::1710951853::1710951853::1::::<><>::
+Grass.obj::Mesh::4257712954335123459::1710951853::1710951853::1::::<><>::
+Ice.obj::Mesh::6568197554095339791::1710951853::1710951853::1::::<><>::
+Leaves.obj::Mesh::2315136961476848828::1710951853::1710951853::1::::<><>::
+QuestionMark.obj::Mesh::2290085997079593406::1710951853::1710951853::1::::<><>::
+Snow.obj::Mesh::4963812740223456480::1710951853::1710951853::1::::<><>::
+Stone.obj::Mesh::5184362509187761090::1710951853::1710951853::1::::<><>::
+Wood.obj::Mesh::5751667960380584571::1710951853::1710951853::1::::<><>::
+WoodPlanks.obj::Mesh::2049350394589237434::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Tools/::1710951853
+::res://Assets/Cube World - Aug 2023/Tools/Blends/::1710951853
+::res://Assets/Cube World - Aug 2023/Tools/Blends/textures/::1710951853
+Atlas.png::CompressedTexture2D::1632274378920635027::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Tools/FBX/::1710951853
+Axe_Diamond.fbx::PackedScene::1947607310361516443::1710951853::1710951853::1::::<><>::
+Axe_Gold.fbx::PackedScene::865332408567453901::1710951853::1710951853::1::::<><>::
+Axe_Stone.fbx::PackedScene::5903719680998074256::1710951853::1710951853::1::::<><>::
+Axe_Wood.fbx::PackedScene::2248846227332178977::1710951853::1710951853::1::::<><>::
+Pickaxe_Diamond.fbx::PackedScene::7112404509139587498::1710951853::1710951853::1::::<><>::
+Pickaxe_Gold.fbx::PackedScene::2898022474098907626::1710951853::1710951853::1::::<><>::
+Pickaxe_Stone.fbx::PackedScene::3702252944963807590::1710951853::1710951853::1::::<><>::
+Pickaxe_Wood.fbx::PackedScene::2263241872219207649::1710951853::1710951853::1::::<><>::
+Shovel_Diamond.fbx::PackedScene::1269358739648544150::1710951853::1710951853::1::::<><>::
+Shovel_Gold.fbx::PackedScene::3402103195859339960::1710951853::1710951853::1::::<><>::
+Shovel_Stone.fbx::PackedScene::8285886896396380369::1710951853::1710951853::1::::<><>::
+Shovel_Wood.fbx::PackedScene::4606333347854510983::1710951853::1710951853::1::::<><>::
+Sword_Diamond.fbx::PackedScene::5507630846697714425::1710951853::1710951853::1::::<><>::
+Sword_Gold.fbx::PackedScene::873955551274301679::1710951853::1710951853::1::::<><>::
+Sword_Stone.fbx::PackedScene::7845291108331482418::1710951853::1710951853::1::::<><>::
+Sword_Wood.fbx::PackedScene::6745186533571742784::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Tools/glTF/::1710951853
+Axe_Diamond.gltf::PackedScene::646498481939809066::1710951853::1710951853::1::::<><>::
+Axe_Diamond_Atlas.png::CompressedTexture2D::4495499020247562709::1710951853::1710951853::1::::<><>::
+Axe_Gold.gltf::PackedScene::4536929257902605337::1710951853::1710951853::1::::<><>::
+Axe_Gold_Atlas.png::CompressedTexture2D::2898881711845791330::1710951853::1710951853::1::::<><>::
+Axe_Stone.gltf::PackedScene::4384432011265432417::1710951853::1710951853::1::::<><>::
+Axe_Stone_Atlas.png::CompressedTexture2D::5909800203699695084::1710951853::1710951853::1::::<><>::
+Axe_Wood.gltf::PackedScene::1889796581458586618::1710951853::1710951853::1::::<><>::
+Axe_Wood_Atlas.png::CompressedTexture2D::2689187221817390289::1710951853::1710951853::1::::<><>::
+Pickaxe_Diamond.gltf::PackedScene::8215258217332431654::1710951853::1710951853::1::::<><>::
+Pickaxe_Diamond_Atlas.png::CompressedTexture2D::8588197270473025492::1710951853::1710951853::1::::<><>::
+Pickaxe_Gold.gltf::PackedScene::2690085514514863015::1710951853::1710951853::1::::<><>::
+Pickaxe_Gold_Atlas.png::CompressedTexture2D::4303814412806576342::1710951853::1710951853::1::::<><>::
+Pickaxe_Stone.gltf::PackedScene::2931543731196559647::1710951853::1710951853::1::::<><>::
+Pickaxe_Stone_Atlas.png::CompressedTexture2D::8542023116876705199::1710951853::1710951853::1::::<><>::
+Pickaxe_Wood.gltf::PackedScene::2623902373318364056::1710951853::1710951853::1::::<><>::
+Pickaxe_Wood_Atlas.png::CompressedTexture2D::3059763465811334755::1710951853::1710951853::1::::<><>::
+Shovel_Diamond.gltf::PackedScene::8209882796390077826::1710951853::1710951853::1::::<><>::
+Shovel_Diamond_Atlas.png::CompressedTexture2D::507216464160563286::1710951853::1710951853::1::::<><>::
+Shovel_Gold.gltf::PackedScene::2882805494474176887::1710951853::1710951853::1::::<><>::
+Shovel_Gold_Atlas.png::CompressedTexture2D::3014529954817168004::1710951853::1710951853::1::::<><>::
+Shovel_Stone.gltf::PackedScene::4151982313820935430::1710951853::1710951853::1::::<><>::
+Shovel_Stone_Atlas.png::CompressedTexture2D::3167335047194175017::1710951853::1710951853::1::::<><>::
+Shovel_Wood.gltf::PackedScene::8152104121362177415::1710951853::1710951853::1::::<><>::
+Shovel_Wood_Atlas.png::CompressedTexture2D::1117306085001819194::1710951853::1710951853::1::::<><>::
+Sword_Diamond.gltf::PackedScene::223340067914374919::1710951853::1710951853::1::::<><>::
+Sword_Diamond_Atlas.png::CompressedTexture2D::289942521262242462::1710951853::1710951853::1::::<><>::
+Sword_Gold.gltf::PackedScene::695148628622033907::1710951853::1710951853::1::::<><>::
+Sword_Gold_Atlas.png::CompressedTexture2D::6184278405364178717::1710951853::1710951853::1::::<><>::
+Sword_Stone.gltf::PackedScene::3622740929065368655::1710951853::1710951853::1::::<><>::
+Sword_Stone_Atlas.png::CompressedTexture2D::8439204713526689599::1710951853::1710951853::1::::<><>::
+Sword_Wood.gltf::PackedScene::7889426834654726082::1710951853::1710951853::1::::<><>::
+Sword_Wood_Atlas.png::CompressedTexture2D::5084118617312359100::1710951853::1710951853::1::::<><>::
+::res://Assets/Cube World - Aug 2023/Tools/OBJ/::1710951853
+Axe_Diamond.obj::Mesh::48323775975094970::1710951853::1710951853::1::::<><>::
+Axe_Gold.obj::Mesh::7542477427575718276::1710951853::1710951853::1::::<><>::
+Axe_Stone.obj::Mesh::4201973719926681281::1710951853::1710951853::1::::<><>::
+Axe_Wood.obj::Mesh::1552344521966852884::1710951853::1710951853::1::::<><>::
+Pickaxe_Diamond.obj::Mesh::7622059017393607249::1710951853::1710951853::1::::<><>::
+Pickaxe_Gold.obj::Mesh::8786506309751900786::1710951853::1710951853::1::::<><>::
+Pickaxe_Stone.obj::Mesh::8372173125055434548::1710951853::1710951853::1::::<><>::
+Pickaxe_Wood.obj::Mesh::7859367370135096396::1710951853::1710951853::1::::<><>::
+Shovel_Diamond.obj::Mesh::540398267400032839::1710951853::1710951853::1::::<><>::
+Shovel_Gold.obj::Mesh::1293141318256643459::1710951853::1710951853::1::::<><>::
+Shovel_Stone.obj::Mesh::3194131627655331882::1710951853::1710951853::1::::<><>::
+Shovel_Wood.obj::Mesh::9175924045344747149::1710951853::1710951853::1::::<><>::
+Sword_Diamond.obj::Mesh::132945208488886227::1710951853::1710951853::1::::<><>::
+Sword_Gold.obj::Mesh::8837500707242730006::1710951853::1710951853::1::::<><>::
+Sword_Stone.obj::Mesh::1139397913593342494::1710951853::1710951853::1::::<><>::
+Sword_Wood.obj::Mesh::1203192171162067023::1710951853::1710951853::1::::<><>::
+::res://Controllers/::1710951853
+game_controller.gd::GDScript::-1::1710951853::0::1::::<>Node<>::
+multiplayer_controller.gd::GDScript::-1::1710951853::0::1::::<>Node<>::
+signal_bus.gd::GDScript::-1::1710951853::0::1::::<>Node<>::
+::res://Materials/::1710951853
+dirt.tres::StandardMaterial3D::3575003139670445305::1710951853::0::1::::<><>::
+::res://Resources/::1710951853
+blocks.tres::MeshLibrary::9172164952813432024::1710951853::0::1::::<><>::uid://cvumu7f0dc6o5::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Grey_Blocks_PixelArt.png<>uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png<>uid://bmsxgxncsy1k::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Dirt_Blocks_PixelArt.png<>uid://crf8w85itqnxg::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Grass_Blocks_PixelArt.png<>uid://d0y4qfpeuillc::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Leaves_Blocks_PixelArt.png<>uid://bct18jt61kphq::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Stone_Blocks_PixelArt.png
+::res://Scenes/::1710951853
+blocks.tscn::PackedScene::6691148610470926331::1710951853::0::1::::<><>::uid://cvumu7f0dc6o5::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Grey_Blocks_PixelArt.png<>uid://b0p0d4or1q1hv::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Wood_Blocks_PixelArt.png<>uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png<>uid://bmsxgxncsy1k::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Dirt_Blocks_PixelArt.png<>uid://crf8w85itqnxg::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Grass_Blocks_PixelArt.png<>uid://d0y4qfpeuillc::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Leaves_Blocks_PixelArt.png<>uid://bct18jt61kphq::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Stone_Blocks_PixelArt.png
+player.tscn::PackedScene::3388748986085049585::1710951853::0::1::::<><>::res://Scripts/player.gd
+world.tscn::PackedScene::8815204910383729255::1710951853::0::1::::<><>::uid://bojsg3aiq2bif::::res://Scenes/player.tscn<>uid://d3xchmrjyc4hg::::res://Resources/blocks.tres<>res://Scripts/GridMap.gd
+::res://Scenes/UI/::1710951853
+main_menu.gd::GDScript::-1::1710951853::0::1::::<>Control<>::
+main_menu.tscn::PackedScene::6532471385347643433::1710951853::0::1::::<><>::res://Scenes/UI/main_menu.gd
+::res://Scripts/::1710951853
+GridMap.gd::GDScript::-1::1710951853::0::1::::<>GridMap<>::
+player.gd::GDScript::-1::1710951853::0::1::::<>CharacterBody3D<>::

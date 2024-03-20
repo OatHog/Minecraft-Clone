@@ -22,10 +22,12 @@ func _ready():
 	address_warning_label.hide()
 	name_warning_label.hide()
 
-
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
 	pass
+
+func connected_to_server():
+	MultiplayerController.send_player_information.rpc_id(1, name_entry.text, MultiplayerController.multiplayer.get_unique_id(), "Bean")
 
 func _on_host_pressed():
 	MultiplayerController.enet_peer.create_server(MultiplayerController.PORT, 5)
