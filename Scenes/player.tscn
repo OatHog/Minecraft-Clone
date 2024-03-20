@@ -1,4 +1,4 @@
-[gd_scene load_steps=4 format=3 uid="uid://bojsg3aiq2bif"]
+[gd_scene load_steps=5 format=3 uid="uid://bojsg3aiq2bif"]
 
 [ext_resource type="Script" path="res://Scripts/player.gd" id="1_88pls"]
 
@@ -9,6 +9,17 @@ height = 4.0
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_3dps4"]
 radius = 1.0
 height = 4.0
+
+[sub_resource type="SceneReplicationConfig" id="SceneReplicationConfig_8k7e5"]
+properties/0/path = NodePath(".:position")
+properties/0/spawn = true
+properties/0/replication_mode = 1
+properties/1/path = NodePath(".:rotation")
+properties/1/spawn = true
+properties/1/replication_mode = 1
+properties/2/path = NodePath("Camera3D:rotation")
+properties/2/spawn = true
+properties/2/replication_mode = 1
 
 [node name="Player" type="CharacterBody3D"]
 script = ExtResource("1_88pls")
@@ -24,3 +35,6 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.26302, 0)
 
 [node name="RayCast3D" type="RayCast3D" parent="Camera3D"]
 target_position = Vector3(0, 0, -8)
+
+[node name="MultiplayerSynchronizer" type="MultiplayerSynchronizer" parent="."]
+replication_config = SubResource("SceneReplicationConfig_8k7e5")

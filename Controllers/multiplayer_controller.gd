@@ -1,7 +1,5 @@
 extends Node
 
-@onready var main_menu: PackedScene = preload("res://Scenes/UI/main_menu.tscn")
-
 # Multiplayer related variables
 @onready var player_scene: PackedScene = preload("res://Scenes/player.tscn")
 const PORT = 6000
@@ -47,27 +45,3 @@ func upnp_setup():
 
 func server_connection_failed():
 	print("connection failed.")
-
-func _on_proceed_pressed():
-	start_lobby.rpc()
-
-@rpc("any_peer", "call_local")
-func start_lobby():
-	main_menu.hide()
-
-@rpc("any_peer", "call_local")
-func add_character(peer_id: int, character: String):
-	if GameController.players[peer_id].character == "Helmet":
-		var player = player_scene.instantiate()
-		player.name = str(peer_id)
-		add_child(player)
-		player.global_position = $"../Platform/SpawnPoint".global_position
-
-@rpc("any_peer", "call_local")
-func send_helmet_type():
-	GameController.players[multiplayer.get_unique_id()].character = "Helmet"
-
-@rpc("any_peer", "call_local")
-func _on_start_button_pressed():
-	var peer_id = multiplayer.get_unique_id()
-	add_character.rpc(peer_id, GameController.players[peer_id].character)

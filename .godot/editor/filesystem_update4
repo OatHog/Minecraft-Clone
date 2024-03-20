@@ -1,7 +1,8 @@
-res://Scenes/UI/main_menu.tscn
-res://Resources/blocks.tres
-res://Scenes/UI/main_menu.gd
-res://Controllers/multiplayer_controller.gd
 res://Scenes/world.tscn
+res://Resources/blocks.tres
 res://Scenes/player.tscn
 res://Scenes/blocks.tscn
+res://Scenes/UI/main_menu.tscn
+res://Scenes/UI/main_menu.gd
+res://Controllers/multiplayer_controller.gd
+res://Scripts/player.gd

@@ -11,10 +11,17 @@ const JUMP_VELOCITY = 12.0
 var gravity = 24.0
 var sensitivity: float = 0.002
 
+func _enter_tree():
+	set_multiplayer_authority(multiplayer.get_unique_id())
+
 func _ready():
-	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	if !is_multiplayer_authority(): return
+	
+	camera.make_current()
 
 func _unhandled_input(event):
+	if !is_multiplayer_authority(): return
+	
 	if event is InputEventMouseMotion:
 		rotation.y = rotation.y - event.relative.x * sensitivity
 		camera.rotation.x = camera.rotation.x - event.relative.y * sensitivity
@@ -38,15 +45,23 @@ func _physics_process(delta):
 
 	# Handle mouse clicks
 	if Input.is_action_just_pressed("left_click"):
-		if ray_cast_3d.is_colliding():
+		hit_block.rpc()
+	
+	if Input.is_action_just_pressed("right_click"):
+		place_block.rpc()
+
+	move_and_slide()
+
+@rpc("authority", "call_local")
+func hit_block():
+	if ray_cast_3d.is_colliding():
 			if ray_cast_3d.get_collider().has_method("destroy_block"):
 				ray_cast_3d.get_collider().destroy_block(ray_cast_3d.get_collision_point() - 
 														ray_cast_3d.get_collision_normal())
-	
-	if Input.is_action_just_pressed("right_click"):
-		if ray_cast_3d.is_colliding():
+														
+@rpc("authority", "call_local")
+func place_block():
+	if ray_cast_3d.is_colliding():
 			if ray_cast_3d.get_collider().has_method("place_block"):
 				ray_cast_3d.get_collider().place_block(ray_cast_3d.get_collision_point() + 
 														ray_cast_3d.get_collision_normal(), 5)
-
-	move_and_slide()
