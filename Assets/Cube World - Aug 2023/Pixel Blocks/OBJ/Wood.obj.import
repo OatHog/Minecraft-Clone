@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cn7fepn775ke2"
+path="res://.godot/imported/Wood.obj-50db8b2b321f299e24fedb618d342487.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wood.obj-50db8b2b321f299e24fedb618d342487.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Pixel Blocks/OBJ/Wood.obj"
+dest_files=["res://.godot/imported/Wood.obj-50db8b2b321f299e24fedb618d342487.mesh", "res://.godot/imported/Wood.obj-50db8b2b321f299e24fedb618d342487.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvx7x1rg53f2m"
+path="res://.godot/imported/Block_Square.obj-92b0660dddb9f19f912afae7af5c8f9c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Block_Square.obj-92b0660dddb9f19f912afae7af5c8f9c.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Pixel Blocks/OBJ/Block_Square.obj"
+dest_files=["res://.godot/imported/Block_Square.obj-92b0660dddb9f19f912afae7af5c8f9c.mesh", "res://.godot/imported/Block_Square.obj-92b0660dddb9f19f912afae7af5c8f9c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

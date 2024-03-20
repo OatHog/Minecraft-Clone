@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dgos7h6a6n1p6"
+path="res://.godot/imported/Crystal_Big.obj-93ac0ee84a5b7f70a003b79f2e7a7b04.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Crystal_Big.obj-93ac0ee84a5b7f70a003b79f2e7a7b04.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Crystal_Big.obj"
+dest_files=["res://.godot/imported/Crystal_Big.obj-93ac0ee84a5b7f70a003b79f2e7a7b04.mesh", "res://.godot/imported/Crystal_Big.obj-93ac0ee84a5b7f70a003b79f2e7a7b04.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

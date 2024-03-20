@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://wd75f6mxqiyu"
+path="res://.godot/imported/Axe_Wood.obj-7f4b5b0e445fbf336b8d910232dcc614.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Axe_Wood.obj-7f4b5b0e445fbf336b8d910232dcc614.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Tools/OBJ/Axe_Wood.obj"
+dest_files=["res://.godot/imported/Axe_Wood.obj-7f4b5b0e445fbf336b8d910232dcc614.mesh", "res://.godot/imported/Axe_Wood.obj-7f4b5b0e445fbf336b8d910232dcc614.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

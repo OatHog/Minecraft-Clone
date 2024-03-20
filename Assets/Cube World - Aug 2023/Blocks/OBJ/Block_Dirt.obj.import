@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://3csih6st80pw"
+path="res://.godot/imported/Block_Dirt.obj-4d3b7796d14fee20040d9ebd77e1a18d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Block_Dirt.obj-4d3b7796d14fee20040d9ebd77e1a18d.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Blocks/OBJ/Block_Dirt.obj"
+dest_files=["res://.godot/imported/Block_Dirt.obj-4d3b7796d14fee20040d9ebd77e1a18d.mesh", "res://.godot/imported/Block_Dirt.obj-4d3b7796d14fee20040d9ebd77e1a18d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

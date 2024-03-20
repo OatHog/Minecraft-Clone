@@ -1,0 +1,7 @@
+res://Scenes/blocks.tscn
+res://Resources/blocks.tres
+res://Controllers/game_controller.gd
+res://Controllers/multiplayer_controller.gd
+res://Scenes/UI/main_menu.tscn
+res://Controllers/MultiplayerController.gd
+res://Scenes/UI/main_menu.gd

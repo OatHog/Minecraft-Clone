@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c5dsayp4ccbic"
+path="res://.godot/imported/Zombie.obj-b81b4e2e746f2ee73f2f1c99e54003af.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Zombie.obj-b81b4e2e746f2ee73f2f1c99e54003af.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Enemies/OBJ/Zombie.obj"
+dest_files=["res://.godot/imported/Zombie.obj-b81b4e2e746f2ee73f2f1c99e54003af.mesh", "res://.godot/imported/Zombie.obj-b81b4e2e746f2ee73f2f1c99e54003af.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

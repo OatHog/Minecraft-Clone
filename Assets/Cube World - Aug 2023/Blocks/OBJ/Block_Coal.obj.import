@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ntutipfoirer"
+path="res://.godot/imported/Block_Coal.obj-981252f86a30d4a2b3e608e53ed23520.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Block_Coal.obj-981252f86a30d4a2b3e608e53ed23520.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Blocks/OBJ/Block_Coal.obj"
+dest_files=["res://.godot/imported/Block_Coal.obj-981252f86a30d4a2b3e608e53ed23520.mesh", "res://.godot/imported/Block_Coal.obj-981252f86a30d4a2b3e608e53ed23520.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

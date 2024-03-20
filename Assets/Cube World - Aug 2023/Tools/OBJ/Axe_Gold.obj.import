@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dfpvrbpva8rrw"
+path="res://.godot/imported/Axe_Gold.obj-d7a2afd2ba9fe0afeed0195d9a502bca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Axe_Gold.obj-d7a2afd2ba9fe0afeed0195d9a502bca.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Tools/OBJ/Axe_Gold.obj"
+dest_files=["res://.godot/imported/Axe_Gold.obj-d7a2afd2ba9fe0afeed0195d9a502bca.mesh", "res://.godot/imported/Axe_Gold.obj-d7a2afd2ba9fe0afeed0195d9a502bca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

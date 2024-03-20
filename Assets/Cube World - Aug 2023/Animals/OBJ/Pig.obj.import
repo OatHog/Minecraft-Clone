@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bfn2nyjduuiqv"
+path="res://.godot/imported/Pig.obj-a819da83336d16c43ffc5c7ff894ce68.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Pig.obj-a819da83336d16c43ffc5c7ff894ce68.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Animals/OBJ/Pig.obj"
+dest_files=["res://.godot/imported/Pig.obj-a819da83336d16c43ffc5c7ff894ce68.mesh", "res://.godot/imported/Pig.obj-a819da83336d16c43ffc5c7ff894ce68.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

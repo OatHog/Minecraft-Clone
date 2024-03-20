@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bnr2mqsu4x37t"
+path="res://.godot/imported/Character_Male_2.obj-ea944c5f8843c54f357ba9f9536fb92c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Character_Male_2.obj-ea944c5f8843c54f357ba9f9536fb92c.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Characters/OBJ/Character_Male_2.obj"
+dest_files=["res://.godot/imported/Character_Male_2.obj-ea944c5f8843c54f357ba9f9536fb92c.mesh", "res://.godot/imported/Character_Male_2.obj-ea944c5f8843c54f357ba9f9536fb92c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b1wp57kmlbhqp"
+path="res://.godot/imported/Grass.obj-6a99c7f8f83b1996c81433a85ecce77f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Grass.obj-6a99c7f8f83b1996c81433a85ecce77f.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Pixel Blocks/OBJ/Grass.obj"
+dest_files=["res://.godot/imported/Grass.obj-6a99c7f8f83b1996c81433a85ecce77f.mesh", "res://.godot/imported/Grass.obj-6a99c7f8f83b1996c81433a85ecce77f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

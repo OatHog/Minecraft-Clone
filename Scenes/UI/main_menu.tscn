@@ -1,0 +1,111 @@
+[gd_scene load_steps=2 format=3 uid="uid://c0cm342kobbuv"]
+
+[ext_resource type="Script" path="res://Scenes/UI/main_menu.gd" id="1_p2bpm"]
+
+[node name="Main Menu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_p2bpm")
+
+[node name="MainMenu" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -248.0
+offset_top = 10.0
+offset_right = 248.0
+offset_bottom = 138.0
+grow_horizontal = 2
+theme_override_font_sizes/font_size = 91
+text = "Main Menu"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="NameEntry" type="LineEdit" parent="."]
+layout_mode = 0
+offset_left = 744.0
+offset_top = 278.0
+offset_right = 1147.0
+offset_bottom = 337.0
+placeholder_text = "Enter your name..."
+
+[node name="Host" type="Button" parent="."]
+layout_mode = 0
+offset_left = 729.0
+offset_top = 390.0
+offset_right = 884.0
+offset_bottom = 436.0
+text = "Host"
+
+[node name="Join" type="Button" parent="."]
+layout_mode = 0
+offset_left = 1010.0
+offset_top = 390.0
+offset_right = 1165.0
+offset_bottom = 436.0
+text = "Join"
+
+[node name="AddressEntry" type="LineEdit" parent="."]
+layout_mode = 0
+offset_left = 735.0
+offset_top = 462.0
+offset_right = 1167.0
+offset_bottom = 514.0
+placeholder_text = "Enter Host's address..."
+
+[node name="Proceed" type="Button" parent="."]
+layout_mode = 0
+offset_left = 868.0
+offset_top = 559.0
+offset_right = 1023.0
+offset_bottom = 605.0
+text = "Start
+"
+
+[node name="HostLabel" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -309.0
+offset_top = -44.0
+grow_horizontal = 0
+grow_vertical = 0
+
+[node name="AddressWarningLabel" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 787.0
+offset_top = -312.0
+offset_right = 1095.0
+offset_bottom = -257.0
+grow_vertical = 0
+theme_override_colors/font_color = Color(1, 0, 0, 1)
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="NameWarningLabel" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 787.0
+offset_top = -433.0
+offset_right = 1095.0
+offset_bottom = -378.0
+grow_vertical = 0
+theme_override_colors/font_color = Color(1, 0, 0, 1)
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[connection signal="pressed" from="Host" to="." method="_on_host_pressed"]
+[connection signal="pressed" from="Join" to="." method="_on_join_pressed"]

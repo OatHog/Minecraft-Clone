@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7vlm8lyttsos"
+path="res://.godot/imported/QuestionMark.obj-e21feeb9e21b5179151a7bc677731b34.mesh"
+
+[deps]
+
+files=["res://.godot/imported/QuestionMark.obj-e21feeb9e21b5179151a7bc677731b34.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Pixel Blocks/OBJ/QuestionMark.obj"
+dest_files=["res://.godot/imported/QuestionMark.obj-e21feeb9e21b5179151a7bc677731b34.mesh", "res://.godot/imported/QuestionMark.obj-e21feeb9e21b5179151a7bc677731b34.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

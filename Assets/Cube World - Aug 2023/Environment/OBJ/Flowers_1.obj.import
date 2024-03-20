@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cx16cbwfki31a"
+path="res://.godot/imported/Flowers_1.obj-ed422972569d3f3fbcec13a1d8902564.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Flowers_1.obj-ed422972569d3f3fbcec13a1d8902564.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Flowers_1.obj"
+dest_files=["res://.godot/imported/Flowers_1.obj-ed422972569d3f3fbcec13a1d8902564.mesh", "res://.godot/imported/Flowers_1.obj-ed422972569d3f3fbcec13a1d8902564.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

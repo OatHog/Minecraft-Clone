@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tr8w2j07mpwb"
+path="res://.godot/imported/Sheep.obj-bf766581348979eb066e6ad9d03808f2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Sheep.obj-bf766581348979eb066e6ad9d03808f2.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Animals/OBJ/Sheep.obj"
+dest_files=["res://.godot/imported/Sheep.obj-bf766581348979eb066e6ad9d03808f2.mesh", "res://.godot/imported/Sheep.obj-bf766581348979eb066e6ad9d03808f2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

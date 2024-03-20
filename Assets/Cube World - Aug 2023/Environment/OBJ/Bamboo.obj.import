@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bn1d417fk4m1i"
+path="res://.godot/imported/Bamboo.obj-04eb744679de6288d937e0697a52335f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bamboo.obj-04eb744679de6288d937e0697a52335f.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Bamboo.obj"
+dest_files=["res://.godot/imported/Bamboo.obj-04eb744679de6288d937e0697a52335f.mesh", "res://.godot/imported/Bamboo.obj-04eb744679de6288d937e0697a52335f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

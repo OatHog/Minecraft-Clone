@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://xn5dw41mpr3"
+path="res://.godot/imported/Axe_Diamond.obj-f89d5753f0719bdfe68c65a227f21ada.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Axe_Diamond.obj-f89d5753f0719bdfe68c65a227f21ada.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Tools/OBJ/Axe_Diamond.obj"
+dest_files=["res://.godot/imported/Axe_Diamond.obj-f89d5753f0719bdfe68c65a227f21ada.mesh", "res://.godot/imported/Axe_Diamond.obj-f89d5753f0719bdfe68c65a227f21ada.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

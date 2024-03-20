@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://5gyg2ol8jet6"
+path="res://.godot/imported/Bricks_Yellow.obj-0e9ced9d51ab1ed8fb724b4910182f0d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bricks_Yellow.obj-0e9ced9d51ab1ed8fb724b4910182f0d.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Pixel Blocks/OBJ/Bricks_Yellow.obj"
+dest_files=["res://.godot/imported/Bricks_Yellow.obj-0e9ced9d51ab1ed8fb724b4910182f0d.mesh", "res://.godot/imported/Bricks_Yellow.obj-0e9ced9d51ab1ed8fb724b4910182f0d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

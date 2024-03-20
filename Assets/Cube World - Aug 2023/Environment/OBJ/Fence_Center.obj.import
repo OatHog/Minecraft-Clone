@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ddrvts1ddkswl"
+path="res://.godot/imported/Fence_Center.obj-5a4e4d1c03c37718e7286019c45b2c29.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Fence_Center.obj-5a4e4d1c03c37718e7286019c45b2c29.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Fence_Center.obj"
+dest_files=["res://.godot/imported/Fence_Center.obj-5a4e4d1c03c37718e7286019c45b2c29.mesh", "res://.godot/imported/Fence_Center.obj-5a4e4d1c03c37718e7286019c45b2c29.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://byuhwkhhxl5tw"
+path="res://.godot/imported/Rail_Incline.obj-fe90db90a9f07a1ebf78a5579855418c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Rail_Incline.obj-fe90db90a9f07a1ebf78a5579855418c.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Rail_Incline.obj"
+dest_files=["res://.godot/imported/Rail_Incline.obj-fe90db90a9f07a1ebf78a5579855418c.mesh", "res://.godot/imported/Rail_Incline.obj-fe90db90a9f07a1ebf78a5579855418c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

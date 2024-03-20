@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bfo1kosab7vkw"
+path="res://.godot/imported/Grass_Small.obj-ce8a57916458fbb7d667afcfc806220b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Grass_Small.obj-ce8a57916458fbb7d667afcfc806220b.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Grass_Small.obj"
+dest_files=["res://.godot/imported/Grass_Small.obj-ce8a57916458fbb7d667afcfc806220b.mesh", "res://.godot/imported/Grass_Small.obj-ce8a57916458fbb7d667afcfc806220b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

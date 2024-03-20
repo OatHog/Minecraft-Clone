@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b5nt86b0opm6"
+path="res://.godot/imported/Sword_Diamond.obj-11093802a3527e0d439ee7944d00acfd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Sword_Diamond.obj-11093802a3527e0d439ee7944d00acfd.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Tools/OBJ/Sword_Diamond.obj"
+dest_files=["res://.godot/imported/Sword_Diamond.obj-11093802a3527e0d439ee7944d00acfd.mesh", "res://.godot/imported/Sword_Diamond.obj-11093802a3527e0d439ee7944d00acfd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

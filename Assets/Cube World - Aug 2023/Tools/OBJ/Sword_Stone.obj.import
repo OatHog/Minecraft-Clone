@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://qh6ynbuo4m0u"
+path="res://.godot/imported/Sword_Stone.obj-53fa7f06f49cce5377f39bfc2daed4c5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Sword_Stone.obj-53fa7f06f49cce5377f39bfc2daed4c5.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Tools/OBJ/Sword_Stone.obj"
+dest_files=["res://.godot/imported/Sword_Stone.obj-53fa7f06f49cce5377f39bfc2daed4c5.mesh", "res://.godot/imported/Sword_Stone.obj-53fa7f06f49cce5377f39bfc2daed4c5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

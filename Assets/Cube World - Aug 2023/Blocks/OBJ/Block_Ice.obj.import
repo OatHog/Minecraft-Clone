@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://nbfggaqpc4s3"
+path="res://.godot/imported/Block_Ice.obj-b40cfb95d67a72a5d833f9087eb8062f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Block_Ice.obj-b40cfb95d67a72a5d833f9087eb8062f.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Blocks/OBJ/Block_Ice.obj"
+dest_files=["res://.godot/imported/Block_Ice.obj-b40cfb95d67a72a5d833f9087eb8062f.mesh", "res://.godot/imported/Block_Ice.obj-b40cfb95d67a72a5d833f9087eb8062f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

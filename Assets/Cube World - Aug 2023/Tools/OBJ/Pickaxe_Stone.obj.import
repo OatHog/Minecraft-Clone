@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drjsp6hlurcyu"
+path="res://.godot/imported/Pickaxe_Stone.obj-5d746988a04eae32b381225c9902991a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Pickaxe_Stone.obj-5d746988a04eae32b381225c9902991a.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Tools/OBJ/Pickaxe_Stone.obj"
+dest_files=["res://.godot/imported/Pickaxe_Stone.obj-5d746988a04eae32b381225c9902991a.mesh", "res://.godot/imported/Pickaxe_Stone.obj-5d746988a04eae32b381225c9902991a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hksflcd8sjt0"
+path="res://.godot/imported/Plant_2.obj-41742c9d2a3d0f30d81f6dc0796a152b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Plant_2.obj-41742c9d2a3d0f30d81f6dc0796a152b.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Plant_2.obj"
+dest_files=["res://.godot/imported/Plant_2.obj-41742c9d2a3d0f30d81f6dc0796a152b.mesh", "res://.godot/imported/Plant_2.obj-41742c9d2a3d0f30d81f6dc0796a152b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

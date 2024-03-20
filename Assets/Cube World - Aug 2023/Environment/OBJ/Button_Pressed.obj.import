@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dx0vrgii002jg"
+path="res://.godot/imported/Button_Pressed.obj-04bf8cadd0bee5ecfdc8a1c8002a3e39.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Button_Pressed.obj-04bf8cadd0bee5ecfdc8a1c8002a3e39.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Button_Pressed.obj"
+dest_files=["res://.godot/imported/Button_Pressed.obj-04bf8cadd0bee5ecfdc8a1c8002a3e39.mesh", "res://.godot/imported/Button_Pressed.obj-04bf8cadd0bee5ecfdc8a1c8002a3e39.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

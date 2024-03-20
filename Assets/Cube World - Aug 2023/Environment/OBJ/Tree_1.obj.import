@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://3cqvue2rgpea"
+path="res://.godot/imported/Tree_1.obj-b6414fe7ea7c17b06ea2e5be8925dd6e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tree_1.obj-b6414fe7ea7c17b06ea2e5be8925dd6e.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Tree_1.obj"
+dest_files=["res://.godot/imported/Tree_1.obj-b6414fe7ea7c17b06ea2e5be8925dd6e.mesh", "res://.godot/imported/Tree_1.obj-b6414fe7ea7c17b06ea2e5be8925dd6e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

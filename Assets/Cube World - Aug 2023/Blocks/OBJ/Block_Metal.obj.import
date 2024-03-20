@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://njmx2ubf5pnb"
+path="res://.godot/imported/Block_Metal.obj-2cbba6199b60e2184f575a9a0576029e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Block_Metal.obj-2cbba6199b60e2184f575a9a0576029e.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Blocks/OBJ/Block_Metal.obj"
+dest_files=["res://.godot/imported/Block_Metal.obj-2cbba6199b60e2184f575a9a0576029e.mesh", "res://.godot/imported/Block_Metal.obj-2cbba6199b60e2184f575a9a0576029e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

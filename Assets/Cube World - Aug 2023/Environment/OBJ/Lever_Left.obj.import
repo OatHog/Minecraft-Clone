@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c21fdujj0h54x"
+path="res://.godot/imported/Lever_Left.obj-0251f69871d056c6135dbd68c89eb745.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Lever_Left.obj-0251f69871d056c6135dbd68c89eb745.mesh"]
+
+source_file="res://Assets/Cube World - Aug 2023/Environment/OBJ/Lever_Left.obj"
+dest_files=["res://.godot/imported/Lever_Left.obj-0251f69871d056c6135dbd68c89eb745.mesh", "res://.godot/imported/Lever_Left.obj-0251f69871d056c6135dbd68c89eb745.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
