@@ -23,7 +23,7 @@ func _ready():
 	name_warning_label.hide()
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
+func _process(_delta):
 	pass
 
 func connected_to_server():

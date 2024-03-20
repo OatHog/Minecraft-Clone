@@ -55,7 +55,6 @@ func _on_proceed_pressed():
 func start_lobby():
 	main_menu.hide()
 
-# Handle character select
 @rpc("any_peer", "call_local")
 func add_character(peer_id: int, character: String):
 	if GameController.players[peer_id].character == "Helmet":
