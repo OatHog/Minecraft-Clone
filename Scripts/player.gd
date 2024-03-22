@@ -6,16 +6,18 @@ const JUMP_VELOCITY = 12.0
 
 @onready var camera: Camera3D = $Camera3D
 @onready var ray_cast_3d: RayCast3D = $Camera3D/RayCast3D
+@onready var name_label: Label = $Node3D/SubViewport/Label
 
 # Get the gravity from the project settings to be synced with RigidBody nodes.
 var gravity = 24.0
 var sensitivity: float = 0.002
 
 func _enter_tree():
-	set_multiplayer_authority(multiplayer.get_unique_id())
+	set_multiplayer_authority(str(name).to_int())
 
 func _ready():
 	if !is_multiplayer_authority(): return
+	update_name_label.rpc()
 	
 	camera.make_current()
 
@@ -51,6 +53,11 @@ func _physics_process(delta):
 		place_block.rpc()
 
 	move_and_slide()
+
+@rpc("any_peer", "call_local")
+func update_name_label():
+	var player_name: String = GameController.players[multiplayer.get_unique_id()].name 
+	name_label.text = str(player_name)
 
 @rpc("authority", "call_local")
 func hit_block():

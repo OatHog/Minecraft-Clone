@@ -1,4 +1,4 @@
-[gd_scene load_steps=5 format=3 uid="uid://bojsg3aiq2bif"]
+[gd_scene load_steps=6 format=3 uid="uid://bojsg3aiq2bif"]
 
 [ext_resource type="Script" path="res://Scripts/player.gd" id="1_88pls"]
 
@@ -21,6 +21,9 @@ properties/2/path = NodePath("Camera3D:rotation")
 properties/2/spawn = true
 properties/2/replication_mode = 1
 
+[sub_resource type="ViewportTexture" id="ViewportTexture_gdw3w"]
+viewport_path = NodePath("Node3D/SubViewport")
+
 [node name="Player" type="CharacterBody3D"]
 script = ExtResource("1_88pls")
 
@@ -38,3 +41,31 @@ target_position = Vector3(0, 0, -8)
 
 [node name="MultiplayerSynchronizer" type="MultiplayerSynchronizer" parent="."]
 replication_config = SubResource("SceneReplicationConfig_8k7e5")
+
+[node name="Node3D" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3, 0)
+
+[node name="SubViewport" type="SubViewport" parent="Node3D"]
+transparent_bg = true
+size = Vector2i(300, 25)
+
+[node name="Label" type="Label" parent="Node3D/SubViewport"]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -39.0
+offset_top = -11.5
+offset_right = 39.0
+offset_bottom = 11.5
+grow_horizontal = 2
+grow_vertical = 2
+text = "Name Label"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Sprite3D" type="Sprite3D" parent="Node3D"]
+transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 1, 0, 0, 0)
+billboard = 1
+texture = SubResource("ViewportTexture_gdw3w")

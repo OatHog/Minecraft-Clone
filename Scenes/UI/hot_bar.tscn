@@ -1,0 +1,81 @@
+[gd_scene load_steps=5 format=3 uid="uid://bpipwiovv1dke"]
+
+[ext_resource type="Texture2D" uid="uid://b0p0d4or1q1hv" path="res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Wood_Blocks_PixelArt.png" id="1_xlsbw"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_wgdyf"]
+resource_name = "Blocks_Pixelart"
+cull_mode = 2
+albedo_texture = ExtResource("1_xlsbw")
+roughness = 0.5
+texture_filter = 2
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_d1ntk"]
+_surfaces = [{
+"aabb": AABB(-1, -1, -1, 2, 2, 2),
+"format": 34896613377,
+"index_count": 36,
+"index_data": PackedByteArray(0, 0, 3, 0, 1, 0, 0, 0, 2, 0, 3, 0, 2, 0, 7, 0, 3, 0, 2, 0, 6, 0, 7, 0, 6, 0, 5, 0, 7, 0, 6, 0, 4, 0, 5, 0, 4, 0, 1, 0, 5, 0, 4, 0, 0, 0, 1, 0, 2, 0, 4, 0, 6, 0, 2, 0, 0, 0, 4, 0, 7, 0, 1, 0, 3, 0, 7, 0, 5, 0, 1, 0),
+"name": "Blocks_Pixelart",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 8,
+"vertex_data": PackedByteArray(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 255, 255, 0, 0, 0, 0, 255, 255, 0, 0, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 0, 0, 0, 0, 255, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 255, 255, 0, 0, 255, 255, 0, 0, 255, 255, 255, 255, 255, 255, 0, 0)
+}]
+blend_shape_mode = 0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_j1ow6"]
+resource_name = "Wood_Cube_601"
+_surfaces = [{
+"aabb": AABB(-1, -1, -1, 2, 2, 2),
+"attribute_data": PackedByteArray(49, 0, 239, 152, 200, 51, 60, 205, 112, 50, 239, 152, 49, 0, 177, 102, 200, 51, 122, 255, 112, 50, 177, 102, 200, 51, 122, 255, 49, 0, 239, 152, 112, 50, 239, 152, 200, 51, 60, 205, 49, 0, 177, 102, 112, 50, 177, 102, 112, 50, 239, 152, 49, 0, 239, 152, 7, 102, 60, 205, 112, 50, 177, 102, 49, 0, 177, 102, 7, 102, 122, 255, 112, 50, 239, 152, 7, 102, 122, 255, 49, 0, 239, 152, 112, 50, 177, 102, 7, 102, 60, 205, 49, 0, 177, 102),
+"format": 34896613399,
+"index_count": 36,
+"index_data": PackedByteArray(2, 0, 10, 0, 5, 0, 2, 0, 7, 0, 10, 0, 8, 0, 23, 0, 11, 0, 8, 0, 20, 0, 23, 0, 18, 0, 16, 0, 21, 0, 18, 0, 13, 0, 16, 0, 12, 0, 3, 0, 15, 0, 12, 0, 0, 0, 3, 0, 6, 0, 14, 0, 19, 0, 6, 0, 1, 0, 14, 0, 22, 0, 4, 0, 9, 0, 22, 0, 17, 0, 4, 0),
+"material": SubResource("StandardMaterial3D_wgdyf"),
+"name": "Blocks_Pixelart",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 24,
+"vertex_data": PackedByteArray(0, 0, 0, 0, 0, 0, 255, 191, 0, 0, 0, 0, 0, 0, 84, 213, 0, 0, 0, 0, 0, 0, 255, 255, 0, 0, 255, 255, 0, 0, 255, 191, 0, 0, 255, 255, 0, 0, 84, 213, 0, 0, 255, 255, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 84, 213, 255, 255, 0, 0, 0, 0, 255, 255, 255, 255, 0, 0, 0, 0, 255, 191, 255, 255, 255, 255, 0, 0, 84, 213, 255, 255, 255, 255, 0, 0, 255, 255, 255, 255, 255, 255, 0, 0, 255, 191, 0, 0, 0, 0, 255, 255, 255, 191, 0, 0, 0, 0, 255, 255, 255, 127, 0, 0, 0, 0, 255, 255, 84, 213, 0, 0, 255, 255, 255, 255, 255, 191, 0, 0, 255, 255, 255, 255, 255, 127, 0, 0, 255, 255, 255, 255, 84, 213, 255, 255, 0, 0, 255, 255, 255, 127, 255, 255, 0, 0, 255, 255, 84, 213, 255, 255, 0, 0, 255, 255, 255, 191, 255, 255, 255, 255, 255, 255, 255, 127, 255, 255, 255, 255, 255, 255, 84, 213, 255, 255, 255, 255, 255, 255, 255, 191, 255, 127, 255, 255, 170, 42, 84, 213, 255, 127, 255, 255, 255, 127, 255, 255, 170, 170, 170, 170, 255, 127, 255, 255, 170, 42, 84, 213, 255, 127, 255, 255, 255, 127, 0, 0, 170, 170, 170, 170, 255, 127, 255, 255, 255, 127, 0, 0, 255, 127, 255, 255, 255, 127, 255, 255, 170, 42, 84, 213, 255, 127, 255, 255, 255, 127, 255, 255, 170, 170, 170, 170, 255, 127, 255, 255, 170, 42, 84, 213, 255, 127, 0, 0, 255, 127, 255, 255, 170, 170, 170, 170, 255, 127, 0, 0)
+}]
+blend_shape_mode = 0
+shadow_mesh = SubResource("ArrayMesh_d1ntk")
+
+[node name="Block Selection" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="GridContainer" type="GridContainer" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -430.0
+offset_top = -137.0
+offset_right = 436.0
+offset_bottom = -70.0
+grow_horizontal = 2
+grow_vertical = 0
+columns = 6
+
+[node name="SubViewportContainer" type="SubViewportContainer" parent="GridContainer"]
+layout_mode = 2
+
+[node name="SubViewport" type="SubViewport" parent="GridContainer/SubViewportContainer"]
+transparent_bg = true
+handle_input_locally = false
+size = Vector2i(162, 127)
+render_target_update_mode = 4
+
+[node name="Wood" type="MeshInstance3D" parent="GridContainer/SubViewportContainer/SubViewport"]
+mesh = SubResource("ArrayMesh_j1ow6")
+skeleton = NodePath("")
+
+[node name="Camera3D" type="Camera3D" parent="GridContainer/SubViewportContainer/SubViewport"]
+transform = Transform3D(0.716328, -0.248761, 0.651914, -0.0472649, 0.914846, 0.401027, -0.696161, -0.318079, 0.643572, 2.13833, 1.55057, 2.36914)

@@ -78,7 +78,7 @@ func _on_join_pressed():
 		name_warning_label.text = ""
 		address_warning_label.hide()
 
-@rpc("call_local")
+@rpc("any_peer", "call_local")
 func add_character(peer_id: int, character: String):
 	var player = MultiplayerController.player_scene.instantiate()
 	player.name = str(peer_id)
@@ -87,13 +87,13 @@ func add_character(peer_id: int, character: String):
 
 @rpc("any_peer", "call_local")
 func _on_proceed_pressed():
-	var peer_id = multiplayer.get_unique_id()
-	print(peer_id)
 	start_lobby.rpc()
-	add_character.rpc(peer_id, GameController.players[peer_id].character)
+	
 
 @rpc("any_peer", "call_local")
 func start_lobby():
+	var peer_id = multiplayer.get_unique_id()
+	add_character.rpc(peer_id, GameController.players[peer_id].character)
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	self.hide()
 	

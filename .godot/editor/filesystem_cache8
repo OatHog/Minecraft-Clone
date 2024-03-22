@@ -1,5 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1710957641
+::res://::1711017595
+export_presets.cfg::TextFile::-1::1711017469::0::1::::<><>::
 icon.svg::CompressedTexture2D::550359753799157537::1710926039::1710926049::1::::<><>::
 ::res://Assets/::1710932520
 ::res://Assets/Cube World - Aug 2023/::1710932572
@@ -592,21 +593,22 @@ Sword_Diamond.obj::Mesh::132945208488886227::1710932525::1710932578::1::::<><>::
 Sword_Gold.obj::Mesh::8837500707242730006::1710932525::1710932578::1::::<><>::
 Sword_Stone.obj::Mesh::1139397913593342494::1710932525::1710932578::1::::<><>::
 Sword_Wood.obj::Mesh::1203192171162067023::1710932525::1710932578::1::::<><>::
-::res://Controllers/::1710957601
+::res://Controllers/::1710962020
 game_controller.gd::GDScript::-1::1710945681::0::1::::<>Node<>::
-multiplayer_controller.gd::GDScript::-1::1710957601::0::1::::<>Node<>::
+multiplayer_controller.gd::GDScript::-1::1710962020::0::1::::<>Node<>::
 signal_bus.gd::GDScript::-1::1710946064::0::1::::<>Node<>::
 ::res://Materials/::1710932430
 dirt.tres::StandardMaterial3D::3575003139670445305::1710932430::0::1::::<><>::
-::res://Resources/::1710957601
-blocks.tres::MeshLibrary::9172164952813432024::1710957601::0::1::::<><>::uid://cvumu7f0dc6o5::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Grey_Blocks_PixelArt.png<>uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png<>uid://bmsxgxncsy1k::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Dirt_Blocks_PixelArt.png<>uid://crf8w85itqnxg::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Grass_Blocks_PixelArt.png<>uid://d0y4qfpeuillc::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Leaves_Blocks_PixelArt.png<>uid://bct18jt61kphq::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Stone_Blocks_PixelArt.png
-::res://Scenes/::1710945465
-blocks.tscn::PackedScene::6691148610470926331::1710945258::0::1::::<><>::uid://cvumu7f0dc6o5::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Grey_Blocks_PixelArt.png<>uid://b0p0d4or1q1hv::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Wood_Blocks_PixelArt.png<>uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png<>uid://bmsxgxncsy1k::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Dirt_Blocks_PixelArt.png<>uid://crf8w85itqnxg::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Grass_Blocks_PixelArt.png<>uid://d0y4qfpeuillc::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Leaves_Blocks_PixelArt.png<>uid://bct18jt61kphq::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Stone_Blocks_PixelArt.png
-player.tscn::PackedScene::3388748986085049585::1710944681::0::1::::<><>::res://Scripts/player.gd
-world.tscn::PackedScene::8815204910383729255::1710944680::0::1::::<><>::uid://bojsg3aiq2bif::::res://Scenes/player.tscn<>uid://d3xchmrjyc4hg::::res://Resources/blocks.tres<>res://Scripts/GridMap.gd
-::res://Scenes/UI/::1710957601
-main_menu.gd::GDScript::-1::1710957601::0::1::::<>Control<>::
-main_menu.tscn::PackedScene::6532471385347643433::1710950253::0::1::::<><>::res://Scenes/UI/main_menu.gd
-::res://Scripts/::1710935003
+::res://Resources/::1711017520
+blocks.tres::MeshLibrary::9172164952813432024::1711017520::0::1::::<><>::uid://cvumu7f0dc6o5::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Grey_Blocks_PixelArt.png<>uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png<>uid://bmsxgxncsy1k::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Dirt_Blocks_PixelArt.png<>uid://crf8w85itqnxg::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Grass_Blocks_PixelArt.png<>uid://d0y4qfpeuillc::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Leaves_Blocks_PixelArt.png<>uid://bct18jt61kphq::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Stone_Blocks_PixelArt.png
+::res://Scenes/::1711008484
+blocks.tscn::PackedScene::6691148610470926331::1711008454::0::1::::<><>::uid://cvumu7f0dc6o5::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Bricks_Grey_Blocks_PixelArt.png<>uid://b0p0d4or1q1hv::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Wood_Blocks_PixelArt.png<>uid://xvpuvmqj2tvf::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/WoodPlanks_Blocks_PixelArt.png<>uid://bmsxgxncsy1k::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Dirt_Blocks_PixelArt.png<>uid://crf8w85itqnxg::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Grass_Blocks_PixelArt.png<>uid://d0y4qfpeuillc::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Leaves_Blocks_PixelArt.png<>uid://bct18jt61kphq::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Stone_Blocks_PixelArt.png
+player.tscn::PackedScene::3388748986085049585::1711008484::0::1::::<><>::res://Scripts/player.gd
+world.tscn::PackedScene::8815204910383729255::1711008454::0::1::::<><>::uid://d3xchmrjyc4hg::::res://Resources/blocks.tres<>res://Scripts/GridMap.gd<>uid://c0cm342kobbuv::::res://Scenes/UI/main_menu.tscn
+::res://Scenes/UI/::1711012800
+hot_bar.tscn::PackedScene::3456718845450765348::1711012800::0::1::::<><>::uid://b0p0d4or1q1hv::::res://Assets/Cube World - Aug 2023/Pixel Blocks/glTF/Wood_Blocks_PixelArt.png
+main_menu.gd::GDScript::-1::1711008285::0::1::::<>Control<>::
+main_menu.tscn::PackedScene::6532471385347643433::1711008455::0::1::::<><>::res://Scenes/UI/main_menu.gd
+::res://Scripts/::1711008454
 GridMap.gd::GDScript::-1::1710934097::0::1::::<>GridMap<>::
-player.gd::GDScript::-1::1710935002::0::1::::<>CharacterBody3D<>::
+player.gd::GDScript::-1::1711008454::0::1::::<>CharacterBody3D<>::
